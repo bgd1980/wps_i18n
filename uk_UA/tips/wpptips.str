@@ -1,873 +1,873 @@
 [TIPS]
-3DColor.title=3-D Color
-3DColor.content=Fill the selected 3-D shape with color.\n\nClick the arrow to select from different 3-D colors.
+3Dcolor.title=Колір 3-D
+3Dcolor.content="Заповнення кольором, виділеної фігури 3-D.\n\n клацніть стрілку для вибору кольору 3-D."
 
-3DColor2.title=3-D Color
-3DColor2.content=Click the arrow to select from different 3-D colors.
+3Dcolor2.title=Колір 3-D
+3Dcolor2.content=Клацніть стрільцеві для вибору кольору 3-D.
 
-3DDepthMenu.title=Depth
-3DDepthMenu.content=Change the height of the selected 3-D shape.
+3Ddepthmenu.title=Глибина
+3Ddepthmenu.content=Зміна висоти виділеної фігури 3-D.
 
-3DOnOff.title=3-D On/Off
-3DOnOff.content=Turn on or off the 3-D effect applied to the shape.
+3Donoff.title=Застосувати або скасувати ефект 3-D
+3Donoff.content=Застосування або скасування ефекту 3-D.
 
-3DStylePalette.title=3-D Effects
-3DStylePalette.content=Add a 3-D effect to the shape.
+3Dstylepalette.title=Ефекти 3-D
+3Dstylepalette.content=Застосування 3-d ефекту до фігури.
 
-3DSurfaceMenu.title=Surface
-3DSurfaceMenu.content=Choose a surface effect for the selected 3-D shape in the document.
+3Dsurfacemenu.title=Поверхня
+3Dsurfacemenu.content=Вибір типу поверхні для виділеної фігури 3-D у документі.
 
-3DTiltDown.title=Tilt Down
-3DTiltDown.content=Tilt the shape forward.
+3Dtiltdown.title=Нахил уперед
+3Dtiltdown.content=Нахил фігури вперед.
 
-3DTiltLeft.title=Tilt Left
-3DTiltLeft.content=Tilt the shape to the left.
+3Dtiltleft.title=Нахил уліво
+3Dtiltleft.content=Нахил фігури вліво.
 
-3DTiltRight.title=Tilt Right
-3DTiltRight.content=Tilt the shape to the right.
+3Dtiltright.title=Нахил вправо
+3Dtiltright.content=Нахил фігури вправо.
 
-3DTiltUp.title=Tilt Up
-3DTiltUp.content=Tilt the shape backward.
+3Dtiltup.title=Нахил назад
+3Dtiltup.content=Нахил фігури назад.
 
-ActionSetting.title=Action Settings
-ActionSetting.content=Add an action to the selected object to specify what should happen when you click on it or hover over it with your mouse.
+Actionsetting.title=Дія
+Actionsetting.content="Додавання дії до обраного об'єкта для позначення, що повинне відбутися при клацанні або наведенні на нього покажчиком миші."
 
-AddAssistant.title=Add Assistant
-AddAssistant.content=Add an assistant for the selected member.
+Addassistant.title=Додати помічника
+Addassistant.content=Додавання помічника для обраного користувача.
 
-AddCoworker.title=Add Coworker
-AddCoworker.content=Add a coworker for the selected member.
+Addcoworker.title=Додати колегу
+Addcoworker.content=Додавання колеги для обраного користувача.
 
-AddSubordinate.title=Add Subordinate
-AddSubordinate.content=Add a subordinate for the selected member.
+Addsubordinate.title=Додати підлеглого
+Addsubordinate.content=Додавання підлеглого для обраного користувача.
 
-AlignBottom.title=Align Bottom
-AlignBottom.content=Align text to the bottom of the cell.
+Alignbottom.title=Вирівняти по нижньому краю
+Alignbottom.content=Вирівнювання тексту по нижньому краю комірки.
 
-AlignCenter.title=Center Vertically
-AlignCenter.content=Vertically center the text.
+Aligncenter.title=Центрувати по вертикалі
+Aligncenter.content=Вирівнювання тексту по центру по вертикалі.
 
-AlignTop.title=Align Top
-AlignTop.content=Align text to the top of the cell.
+Aligntop.title=Вирівняти по верхньому краю
+Aligntop.content=Вирівнювання тексту по верхньому краю комірки.
 
-AnimationSchemes.title=Animation Schemes
-AnimationSchemes.content=Show the Slide Design - Animation Schemes task window to set up transition and animation effects to the current slide or entire presentation.
-AnimationSchemes.img=WPPAnimationSchemes
+Animationschemes.title=Ефекти анімації
+Animationschemes.content=Застосування ефектів переходу й анімації до поточного слайда або всій презентації.
+Animationschemes.img=Wppanimationschemes
 
-Arrange.title=Arrange
-Arrange.content="Arrange objects on the slides by changing their order, position and rotation."
+Arrange.title=Упорядкувати
+Arrange.content="Впорядкування об'єктів на слайді шляхом зміни їх порядку, положення й кута повороту."
 
-ArrangeAll.title=Arrange All
-ArrangeAll.content=Tile all open documents side-by-side under the same program window.
+Arrangeall.title=Упорядкувати всі
+Arrangeall.content=Розташування всіх відкритих документів на екрані поруч.
 
-AutoVersion.title=Enable Auto Backup
-AutoVersion.content="Enable auto backup for the current document, save backup file to File Safe each time the document is closed."
+Autoversion.title=Включити автоматичне резервне копіювання
+Autoversion.content=Включення автоматичного резервного копіювання для поточного документа зі збереженням резервної копії файлу в сховище файлів щораз при закритті документа.
 
-Autobackup.title=File Safe
-Autobackup.content=A brief introduction to File Safe.
+Autobackup.title=Сховище файлів
+Autobackup.content=Коротке введення у функцію \"Сховище файлів\".
 
-Backdrop.title=Background
-Backdrop.content=Set the background style to the current slide or entire presentation.
+Backdrop.title=Тло
+Backdrop.content=Вибір стилю тла для поточного слайда або всієї презентації.
 
-BackgroundMusic.title=Insert Background Music
-BackgroundMusic.content="Insert an audio file from local folder. The slide show will automatically play the audio, which will be looped until the end of the slide show."
+Backgroundmusic.title=Вставити фонову музику
+Backgroundmusic.content=Додавання звукового файлу в презентацію. Показ слайдів буде автоматично безупинно відтворювати звуковий файл до кінця презентації.
 
-Bold.title=Bold
-Bold.content=Make the selected text bold.
+Bold.title=Напівжирний
+Bold.content=Виділення тексту напівжирним шрифтом.
 
-BordersFill.title=Borders
-BordersFill.content="Set border style, color and width of the current slide."
+Bordersfill.title=Границі
+Bordersfill.content="Вибір стилю границі, кольору й ширини поточного слайда."
 
-BringForward.title=Bring Forward
-BringForward.content=Bring the selected object forward so that it is hidden by fewer objects that are in front of it.
+Bringforward.title=Перемістити вперед
+Bringforward.content="Переміщення виділеного об'єкта вперед, щоб він не перекривався іншими об'єктами."
 
-BringForward2.title=Bring Forward
-BringForward2.content=Bring the selected objects forward one level or to the front of all objects.
+Bringforward2.title=Перемістити вперед
+Bringforward2.content=Переміщення виділеного об'єкта вперед або розташування його перед іншими об'єктами.
 
-Bullets.title=Bullets
-Bullets.content=Start a bulleted list.\n\nClick the arrow to select different bullet styles.
+Bullets.title=Маркери
+Bullets.content="Початок маркірованого списку.\n\n клацніть стрілку, щоб вибрати інші стилі маркера."
 
-Bullets2.title=Bullets
-Bullets2.content=Click the arrow to select different bullet styles.
+Bullets2.title=Маркери
+Bullets2.content="Клацніть стрільцеві для вибору стилю маркера."
 
-COMAddIns.title=COM Add-Ins
-COMAddIns.content=Add or delete available COM Add-Ins.
+Comaddins.title=Надбудови COM
+Comaddins.content=Керування доступними надбудовами COM.
 
-CTB_MoreControls.title=More Controls
-CTB_MoreControls.content=Click here to insert a control from the set of controls available on this computer.
+CTB_Morecontrols.title=Інші елементи керування
+CTB_Morecontrols.content="Клацніть тут для вставки елемента з набору елементів керування, доступних на цьому комп'ютері."
 
-CTB_Property.title=Control Properties
-CTB_Property.content=View and modify properties for the selected control.
+CTB_Property.title=Властивості елемента керування
+CTB_Property.content=Перегляд і зміна властивостей виділеного елемента керування.
 
-CTB_ViewCode.title=View Code
-CTB_ViewCode.content=Launch Visual Basic editor to edit the code of the selected controls.
+CTB_Viewcode.title=Вихідний код
+CTB_Viewcode.content=Запуск редактора Visual Basic для редагування коду обраних елементів керування.
 
-ChangePicture.title=Change Picture
-ChangePicture.content="Change to a different picture, preserving the formatting and size of the current picture."
+Changepicture.title=Змінити зображення
+Changepicture.content= Перехід до іншого зображення зі збереженням форматування й розміру поточного зображення.
 
-ChangeTextDir.title=Text Direction
-ChangeTextDir.content=Change the orientation of text to horizontal or vertical.
+Changetextdir.title=Напрямок тексту
+Changetextdir.content=Вибір горизонтальної або вертикальної орієнтації тексту.
 
-CheckSpelling.title=Spell Check
-CheckSpelling.content=Check the spelling of the text in the current document.
+Checkspelling.title=Перевірка правопису
+Checkspelling.content=Перевірка правопису в документі.
 
-ChineseTranslation.title=Simplified to Traditional Chinese
-ChineseTranslation.content=Set Simplified to Traditional Chinese translation based upon the character or word.
+Chinesetranslation.title=Перетворити в символи традиційного китайського листа
+Chinesetranslation.content=Перетворення спрощеного китайського в традиційний на основі символів або слів.
 
-ClearTableStyle.title=Clear Table Style
-ClearTableStyle.content=Clear table style of selected cells.
+Cleartablestyle.title=Очистити стиль таблиці
+Cleartablestyle.content=Очистити стиль таблиці у виділеному діапазоні.
 
-CloseDevelopmentTools.title=Close
-CloseDevelopmentTools.content=Click here to hide Developer Tools.
+Closedevelopmenttools.title=Закрити
+Closedevelopmenttools.content="Клацніть тут, щоб закрити вкладку \"Інструменти розроблювача\"."
 
-CloseOtherWindow.title=Close Other Windows
-CloseOtherWindow.content=Close all other windows except the current one.
+Closeotherwindow.title=Закрити інші вікна
+Closeotherwindow.content="Закрити всі вікна, крім поточного."
 
-CloseWindow.title=Close Window
-CloseWindow.content=Close the current window.
+Closewindow.title=Закрити вікно
+Closewindow.content=Закрити поточне вікно.
 
-Color.title=Color
-Color.content=Set either color or pure black and white printing to the current presentation.
+Color.title=Колір
+Color.content=Установка кольорової або чорно-білої друку для поточної презентації.
 
-ColorScheme.title=Color Schemes
-ColorScheme.content="Show the Slide Design - Color Schemes task window to set up the color scheme of titles, bullets and objects for the current slide or entire presentation."
-ColorScheme.img=WPPColorScheme
+Colorscheme.title=Колірні схеми
+Colorscheme.content="Зміна колірної схеми заголовків, маркерів і об'єктів поточного слайда або всієї презентації."
+Colorscheme.img=Wppcolorscheme
 
-CompressPictures.title=Compress Pictures
-CompressPictures.content=Compress the selected picture or all pictures to reduce size.
+Compresspictures.title=Стиснути зображення
+Compresspictures.content=Стиск виділеного зображення або всіх зображень у документі для зменшення розміру.
 
-Copy.title=Copy
-Copy.content=Copy the selection and put it on the system Clipboard.
+Copy.title=Копіювати
+Copy.content=Копіювання виділеного фрагмента в буфер обміну.
 
-CustomAnimation.title=Custom Animation
-CustomAnimation.content=Show the Custom Animation task window to set up animation effects to the text or object in the current slide.
-CustomAnimation.img=WPPCustomAnimation
+Customanimation.title=Настроювання анімації
+Customanimation.content=Вибір ефекту анімації для додавання до тексту або об'єкта в поточному слайді.
+Customanimation.img=Wppcustomanimation
 
-CustomShows.title=Custom Slide Shows
-CustomShows.content=A custom slide show only displays the slides you selected.
+Customshows.title=Довільний показ
+Customshows.content=Створення або відтворення довільного показу слайдів. При довільному показі будуть показані тільки обрані слайди.
 
-Cut.title=Cut
-Cut.content=Cut the selection and put it on the system Clipboard.
+Cut.title=Вирізати
+Cut.content=Вирізати виділення й помістити в буфер обміну.
 
-DecreaseFontSize.title=Decrease Font Size
-DecreaseFontSize.content=Decrease the font size.
+Decreasefontsize.title=Зменшити розмір шрифту
+Decreasefontsize.content=Зменшення розміру шрифту.
 
-DecreaseIndent.title=Decrease List Level
-DecreaseIndent.content=Decrease the indent level.
+Decreaseindent.title=Понизити рівень списку
+Decreaseindent.content=Зменшення відступу.
 
-DecreaseSpace.title=Decrease Spacing
-DecreaseSpace.content=Decrease spacing between lines.
+Decreasespace.title=Зменшити міжрядковий інтервал
+Decreasespace.content=Зменшення інтервалу між рядками.
 
-Delete.title=Delete
-Delete.content="Delete rows, colums, cells, or entire table."
+Delete.title=Вилучити
+Delete.content="Видалення рядка, стовпця, комірок або всієї таблиці."
 
-DeleteComment.title=Delete Comment
-DeleteComment.content=Delete the comment.
+Deletecomment.title=Вилучити примітка
+Deletecomment.content=Видалення виділеного примітки.
 
-DeleteMaster.title=Delete Master
-DeleteMaster.content=Delete the selected slide master.
+Deletemaster.title=Вилучити зразок
+Deletemaster.content=Видалення виділеного зразка слайдів.
 
-DeleteMember.title=Delete Member
-DeleteMember.content=Delete the selected member
+Deletemember.title=Вилучити елемент
+Deletemember.content=Видалення виділеного елемента.
 
-DetailedSettings_DrawingTools.title=Settings
-DetailedSettings_DrawingTools.content=Change the settings of shape formatting.
+Detailedsettings_Drawingtools.title=Параметри
+Detailedsettings_Drawingtools.content=Зміна параметрів форматування фігури.
 
-DetailedSettings_Home.title=Settings
-DetailedSettings_Home.content=Change the settings of font.
+Detailedsettings_Home.title=Параметри
+Detailedsettings_Home.content=Зміна параметрів шрифту.
 
-DetailedSettings_PictureTools.title=Settings
-DetailedSettings_PictureTools.content=Change the settings of picture formatting.
+Detailedsettings_Picturetools.title=Параметри
+Detailedsettings_Picturetools.content=Зміна параметрів форматування зображення.
 
-DetailedSettings_WordArt.title=Settings
-DetailedSettings_WordArt.content=Change the settings of WordArt formatting.
+Detailedsettings_Wordart.title=Параметри
+Detailedsettings_Wordart.content=Зміна параметрів форматування фігурного тексту.
 
-DevelopmentTools.title=Developer Tools
-DevelopmentTools.content="Open the Developer Tools tab to insert the Option Button, Check Box and more."
+Developmenttools.title=Інструменти розроблювача
+Developmenttools.content="Відкриття вкладки \"Інструменти розроблювача\" для додавання перемикача, прапорця й інших елементів."
 
-Direction.title=Direction
-Direction.content=Choose the direction effect of the selected 3-D Shape.
+Direction.title=Напрямок
+Direction.content=Вибір ефекту напрямку для виділеної об'ємної фігури.
 
-DistColumnSevenly.title=Distribute Columns Evenly
-DistColumnSevenly.content=Distribute the width of the selected columns equally between them.
+Distcolumnsevenly.title=Вирівняти ширину стовпців
+Distcolumnsevenly.content=Зробити виділені стовпці рівними по ширині.
 
-DistRowSevenly.title=Distribute Rows Evenly
-DistRowSevenly.content=Distribute the height of the selected rows equally between them.
+Distrowsevenly.title=Вирівняти висоту рядків
+Distrowsevenly.content=Зробити виділені рядки рівними по висоті.
 
-Distributed.title=Distributed
-Distributed.content=Align paragraph to both the left and right margins by adding extra space between characters as necessary.
+Distributed.title=Розподілений рівномірно
+Distributed.content="Вирівнювання абзацу по лівому й правому краям додаванням пробілів між символами при необхідності."
 
-DrawAlignLeft.title=Align
-DrawAlignLeft.content=Align the selected object.
+Drawalignleft.title=Вирівняти
+Drawalignleft.content=Вирівнювання границь декількох виділених об'єктів.
 
-DrawAlignTop.title=Align Text
-DrawAlignTop.content=Setting the alignment to the text.\n\nClick the arrow to select a different alignment.
+Drawaligntop.title=Вирівняти текст
+Drawaligntop.content=Настроювання виду вирівнювання тексту.\n\n клацніть стрілку для вибору способу вирівнювання тексту.
 
-DrawAlignTop2.title=Align Text
-DrawAlignTop2.content=Click the arrow to select a different alignment.
+Drawaligntop2.title=Вирівняти текст
+Drawaligntop2.content=Клацніть стрільцеві для вибору способу вирівнювання тексту.
 
-DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
-DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
+Drawingtoolsdetailedsettings.title=Drawingtoolsdetailedsettings Title
+Drawingtoolsdetailedsettings.content=Drawingtoolsdetailedsettings Content
 
-DuplicateSlide.title=New copy of slide
-DuplicateSlide.content=Insert a duplicate of the current slide into the presentation.
+Duplicateslide.title=Створити копію слайда
+Duplicateslide.content=Вставка копії поточного слайда в презентацію.
 
-DynamicShape.title=Insert Shapes
-DynamicShape.content="Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts."
+Dynamicshape.title=Вставити фігури
+Dynamicshape.content="Додавання готових форм, таких як прямокутники й окружності, стрілки, лінії, символи блок-схем і винесення"
 
-EditComment.title=Edit Comment
-EditComment.content=Edit the comment.
+Editcomment.title=Змінити примітку
+Editcomment.content=Зміна виділеного примітки.
 
-EditPoints.title=Edit Points
-EditPoints.content=Edit the wrap points to change the shape.
+Editpoints.title=Змінити фігуру
+Editpoints.content=Зміна положення крапок для зміни фігури.
 
-EditWordArtText.title=Edit WordArt Text
-EditWordArtText.content=Edit the text of the selected WordArt.
+Editwordarttext.title=Змінити фігурний текст
+Editwordarttext.content=Зміна виділеного фігурного тексту.
 
-EquationEditor.title=Insert Equation
-EquationEditor.content=Insert mathematical equations using equation editor.
-EquationEditor.img=WPPEquationEditor
+Equationeditor.title=Вставити формулу
+Equationeditor.content="Вставка математичних формул, використовуючи редактор формул."
+Equationeditor.img=Wppequationeditor
 
-ExplorBackupDir.title=Explore File Safe
-ExplorBackupDir.content=View backup files and open or recover the backup files for a certain document.
+Explorbackupdir.title=Перегляд сховища файлів
+Explorbackupdir.content="Перегляд файлів резервних копій і відкриття, або відновлення файлів резервних копій певного документа."
 
-ExplorVersion.title=View Backup History
-ExplorVersion.content="View the backup record history of the current document to open, delete or restore the files."
+Explorversion.title=Перегляд записів резервного копіювання
+Explorversion.content="Перегляд записів резервного копіювання поточного документа для відкриття, видалення або відновлення файлів."
 
-ExportWeiboImageCmd.title=ExportWeiboImageCmd Title
-ExportWeiboImageCmd.content=ExportWeiboImageCmd Content
+Exportweiboimagecmd.title=Exportweiboimagecmd Title
+Exportweiboimagecmd.content=Exportweiboimagecmd Content
 
-Find.title=Find
-Find.content=Find text in the presentation.
+Find.title=Знайти
+Find.content=Пошук тексту в презентації.
 
-FitTextTip.title=Fit Text
-FitTextTip.content=Fit text to shapes.
+Fittexttip.title=Вписати текст
+Fittexttip.content=Вписати текст у фігуру.
 
-Flash.title=Insert Flash Animation
-Flash.content=Insert a flash animation from local folder.
+Flash.title=Вставити Flash-Анімацію
+Flash.content=Вставка flash-анімації з файлу.
 
-FontAlignMenu.title=Font Alignment
-FontAlignMenu.content=Set the alignment between the fonts.
+Fontalignmenu.title=Вирівняти шрифт
+Fontalignmenu.content=Вирівнювання шрифту по розміру.
 
-FontColor.title=Font Color
-FontColor.content=Set the text color.\n\nClick the arrow to select a different text color.
+Fontcolor.title=Колір тексту
+Fontcolor.content=Зміна кольору тексту.\n\n клацніть срілку для вибору кольору тексту.
 
-FontColor2.title=Font Color
-FontColor2.content=Click the arrow to select a different font color.
+Fontcolor2.title=Колір тексту
+Fontcolor2.content=Клацніть стрілку для вибору кольору тексту.
 
-FontName.title=Font
-FontName.content=Change the font face.
+Fontname.title=Шрифт
+Fontname.content=Зміна типу шрифту.
 
-FontSize.title=Font Size
-FontSize.content=Change the font size.
+Fontsize.title=Розмір шрифту
+Fontsize.content=Зміна розміру шрифту.
 
-FormatAlignCenter.title=Center
-FormatAlignCenter.content=Center text.
+Formataligncenter.title=Вирівняти по центру
+Formataligncenter.content=Вирівнювання тексту по центру.
 
-FormatAlignLeft.title=Align Text Left
-FormatAlignLeft.content=Align text to the left.
+Formatalignleft.title=Вирівняти текст по лівому краю
+Formatalignleft.content=Вирівнювання тексту по лівому краю.
 
-FormatAlignRight.title=Align Text Right
-FormatAlignRight.content=Align text to the right.
+Formatalignright.title=Вирівняти текст по правому краю
+Formatalignright.content=Вирівнювання тексту по правому краю.
 
-FormatObject.title=Format Object
-FormatObject.content=Show the Format Object dialog box.
-FormatObject.img=WPPFormatObject
+Formatobject.title=Форматування об'єкта
+Formatobject.content=Відкриття діалогового вікна \"Форматування об'єкта\".
+Formatobject.img=Wppformatobject
 
-FormatPainter.title=Format Painter
-FormatPainter.content=Copy formatting from one place and apply it to another.\n\nDouble-click this button to apply the same formatting to multiple places in the document.
+Formatpainter.title=Формат за зразком
+Formatpainter.content="Копіювання форматування для застосування в іншому місці.\n\nдвічі клацніть цю кнопку для застосування одного форматування декількох місцях у документі."
 
-Gallery.title=WPS Gallery
-Gallery.content="WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.\n\nWPS Gallery Online Sources require Internet connection."
+Gallery.title=Колекція WPS
+Gallery.content="Колекція WPS надає всі види джерел зображення для використання, збору колекції зображень, зміни й керування.\n\nдля використання колекції WPS необхідне підключення до Інтернету."
 
-GridGuides.title=Gridlines and Guides
-GridGuides.content=Set up gridlines and guides to the presentation.
+Gridguides.title=Сітка й напрямні
+Gridguides.content=Настроювання сітки й напрямних.
 
-Group.title=Group
-Group.content=Group objects together so that they can be treated as a single object.
+Group.title=Групувати
+Group.content="Групування об'єктів разом, як єдиного об'єкта."
 
-HeaderFooter.title=Header and Footer
-HeaderFooter.content=Edit the header and footer of the document.
-HeaderFooter.img=WPPHeaderFooter
+Headerfooter.title=Колонтитули
+Headerfooter.content=Зміна колонтитулів документа.
+Headerfooter.img=Wppheaderfooter
 
-HomeDetailedSettings.title=HomeDetailedSettings Title
-HomeDetailedSettings.content=HomeDetailedSettings Content
+Homedetailedsettings.title=Homedetailedsettings Title
+Homedetailedsettings.content=Homedetailedsettings Content
 
-Hyperlink.title=Insert Hyperlink
-Hyperlink.content="Create a link to a web page, a picture, or an e-mail address."
+Hyperlink.title=Вставити гіперпосилання
+Hyperlink.content="Створення посилання на веб-сторінку, зображення, або адреса електронної пошти."
 
-IncreaseFontSize.title=Increase Font Size
-IncreaseFontSize.content=Increase the font size.
+Increasefontsize.title=Побільшати розмір шрифту
+Increasefontsize.content=Збільшення розміру шрифту.
 
-IncreaseIndent.title=Increase List Level
-IncreaseIndent.content=Increase the indent level.
+Increaseindent.title=Підвищити рівень списку
+Increaseindent.content=Збільшення відступу.
 
-IncreaseSpace.title=Increase Spacing
-IncreaseSpace.content=Increase spacing between lines.
+Increasespace.title=Побільшати міжрядковий інтервал
+Increasespace.content=Збільшення інтервалу між рядками.
 
-InsertChart.title=Insert Chart
-InsertChart.content="The inserted chart needs to be edited in WPS Spreadsheets.\n\nWhen WPS Spreadsheets closed, the chart in document can display normally. Double-click the chart if you want to edit it."
-InsertChart.img=WPPInsertChart
+Insertchart.title=Вставити діаграму
+Insertchart.content=Вставлену діаграму можна змінити в WPS Spreadsheets.\n\nпісля закриття WPS Spreadsheets діаграма буде показана в документі. Для початку зміни двічі клацніть по діаграмі.
+Insertchart.img=Wppinsertchart
 
-InsertClipArt.title=Insert Clip Art
-InsertClipArt.content=Select a Clip Art from the task window and insert it into the document.
+Insertclipart.title=Вставити кліп
+Insertclipart.content=Виберіть кліп з панелі завдань і вставте в документ.
 
-InsertColumnsLeft.title=Insert Columns to the Left
-InsertColumnsLeft.content=Insert a column to the left of the selected column.
+Insertcolumnsleft.title=Вставити стовпці ліворуч
+Insertcolumnsleft.content=Додавання нового стовпця ліворуч від виділеного стовпця.
 
-InsertColumnsRight.title=Insert Columns to the Right
-InsertColumnsRight.content=Insert a column to the right of the selected column.
+Insertcolumnsright.title=Вставити стовпці праворуч
+Insertcolumnsright.content=Додавання нового стовпця праворуч від виділеного стовпця.
 
-InsertDateTime.title=Date and Time
-InsertDateTime.content=Show the Date and Time dialog box to insert the current date or time into the current document.
+Insertdatetime.title=Дата й час
+Insertdatetime.content=Додавання поточної дати й часу в поточний документ.
 
-InsertFileObject.title=Insert Object from File
-InsertFileObject.content=Insert the selected file into document.
+Insertfileobject.title=Вставити об'єкт із файлу
+Insertfileobject.content=Додавання обраного файлу в документ.
 
-InsertMedia.title=Media
-InsertMedia.content="Insert the music, video, animation and other media files into presentation to enhanc expression for presentation."
+Insertmedia.title=Мультимедіа
+Insertmedia.content="Додавання музики, відео, анімації й інших мультимедійних файлів у презентацію."
 
-InsertObject.title=Insert Object
-InsertObject.content=Show the Insert Object dialog box to select new file or file from local folder.
+Insertobject.title=Вставити об'єкт
+Insertobject.content=Додавання впровадженого об'єкта.
 
-InsertOrgChart.title=Insert Organization Chart
-InsertOrgChart.content=Insert organization chart in current slide.
-InsertOrgChart.img=WPPInsertOrgChart
+Insertorgchart.title=Вставити організаційну діаграму
+Insertorgchart.content=Вставка організаційної діаграми в поточний слайд.
+Insertorgchart.img=Wppinsertorgchart
 
-InsertPictureFromFile.title=Insert Picture
-InsertPictureFromFile.content=Insert a picture from local folder.
+Insertpicturefromfile.title=Вставити зображення
+Insertpicturefromfile.content=Додавання зображення з файлу.
 
-InsertRowsAbove.title=Insert Rows Above
-InsertRowsAbove.content=Add a new row directly above the selected row.
+Insertrowsabove.title=Вставити рядки зверху
+Insertrowsabove.content=Додавання нового рядка над виділеним рядком.
 
-InsertRowsBelow.title=Insert Rows Below
-InsertRowsBelow.content=Insert a new row directly below the selected row.
+Insertrowsbelow.title=Вставити рядки знизу
+Insertrowsbelow.content=Додавання нового рядка під виділеним рядком.
 
-InsertSymbol.title=Insert Symbol
-InsertSymbol.content="Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols."
+Insertsymbol.title=Вставити символ
+Insertsymbol.content="Додавання символу, якого немає на клавіатурі, наприклад, вкладеного знака й символу авторського права."
 
-InsertTable.title=Insert Table
-InsertTable.content=Insert or draw a table into the current slide.
+Inserttable.title=Вставити таблицю
+Inserttable.content=Вставити або намалювати таблицю в поточному слайді.
 
-InsertWordArt.title=Insert WordArt
-InsertWordArt.content=Show the WordArt Gallery dialog box to select a WordArt style and edit content.
+Insertwordart.title=Вставити фігурний текст
+Insertwordart.content=Додавання фігурного тексту в документ.
 
-Italic.title=Italic
-Italic.content=Italicize the selected text.
+Italic.title=Курсив
+Italic.content=Виділення тексту курсивом.
 
-Justify.title=Justify
-Justify.content="Align text to both the left and right margins, adding extra space between words as necessary."
+Justify.title=Вирівняти по ширині
+Justify.content="Вирівнювання тексту по лівому й правому краям з додаванням додаткового простору між словами при необхідності."
 
-KOSCloudFeedbackTip.title=User Feedback
-KOSCloudFeedbackTip.content=Help us to improve WPS Office.
+Koscloudfeedbacktip.title=Відкликання й пропозиції
+Koscloudfeedbacktip.content=Допоможіть нам поліпшити WPS Office.
 
-KOSCloudInformationTip.title=User Guide
-KOSCloudInformationTip.content=How to use Office Space.
+Koscloudinformationtip.title= Посібник користувача
+Koscloudinformationtip.content= Посібник з використання простору офісу.
 
-KOSCreatecloudLinkTip.title=Just ten seconds! You can:
-KOSCreatecloudLinkTip.content=Scan the QR code and share your document to cellphone, to WeChat or MiChat for editing by others.
+Koscreatecloudlinktip.title= За 10 секунд ви можете:
+Koscreatecloudlinktip.content="Просканувати QR код і одержати доступ до документа через телефон, Wechat або Michat для спільної роботи над документом."
 
-KOSOfficespaceLoginFailTip.title=@@
-KOSOfficespaceLoginFailTip.content=UserName or password not match
+Kosofficespaceloginfailtip.title=@@
+Kosofficespaceloginfailtip.content=Невірне ім'я користувача або пароль.
 
-KOSOfficespacePsaawordTip.title=@@
-KOSOfficespacePsaawordTip.content=Password is wrong
+Kosofficespacepsaawordtip.title=@@
+Kosofficespacepsaawordtip.content=Невірний пароль.
 
-KOSOfficespaceRegPsaawordTip.title=@@
-KOSOfficespaceRegPsaawordTip.content=Password not match
+Kosofficespaceregpsaawordtip.title=@@
+Kosofficespaceregpsaawordtip.content=Паролі не збігаються.
 
-KOSOpenCloudFileTip.title=Open from Cloud Docs
-KOSOpenCloudFileTip.content=Modifications of documents in Cloud Docs will be directly saved.
+Kosopencloudfiletip.title=Відкрити з Cloud Docs
+Kosopencloudfiletip.content="Зміни, внесені в документи в Cloud Docs, будуть негайно збережені."
 
-KOSRoamingfileTip.title=File Roaming
-KOSRoamingfileTip.content="Files opened will be automatically roamed to the cloud and all your devices.\n\nYou can start work at anytime and anywhere."
+Kosroamingfiletip.title=Роумінг файлів
+Kosroamingfiletip.content=Відкриті файли будуть автоматично переміщені в хмарний сервіс і будуть доступні на всіх ваших обладнаннях.\n\nвы зможете почати роботу в будь-який час і в будь-якому місці.
 
-KOSSaveFileTocloudTip.title=Save to Cloud Docs
-KOSSaveFileTocloudTip.content=Share with others for discussing, editing, and previewing documents online.
+Kossavefiletocloudtip.title=Зберегти в Cloud Docs
+Kossavefiletocloudtip.content="Зберегти файл у хмарному сервісі. Дозволяє працювати з одним документом з декількох обладнань"
 
-KOSUserLoginCloudTextBtnTip.title=Sign In
-KOSUserLoginCloudTextBtnTip.content=Sign in WPS Office Cloud and upload your documents. You can edit the same document on other computers or cellphones and never lose it.
+Kosuserlogincloudtextbtntip.title=Увійти
+Kosuserlogincloudtextbtntip.content="Увійти, щоб користуватися безкоштовними послугами хмарного сервісу, такими як, документи з Інтернету, резервне зберігання файлів, шаблони з Інтернету й бібліотека ресурсів."
 
-KOSUserLoginCloudTip.title=KOSUserLoginCloudTip Title
-KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
+Kosuserlogincloudtip.title=Kosuserlogincloudtip Title
+Kosuserlogincloudtip.content=Kosuserlogincloudtip Content
 
-KOSUserLogoutCloudTip.title=Signed in
-KOSUserLogoutCloudTip.content=You have signed in WPS Office Cloud. Click to exit.
+Kosuserlogoutcloudtip.title=Вхід виконаний
+Kosuserlogoutcloudtip.content=Ви ввійшли в хмарний сервіс WPS Office. Клацніть тут для виходу.
 
-Lighting.title=Lighting
-Lighting.content="Set the lighting direction and intensity for the selected 3-D shape. The latter includes bright, normal and dim."
+Lighting.title=Висвітлення
+Lighting.content="Задайте напрямок висвітлення для обраної фігури 3-D, а також інтенсивність висвітлення з яскравого, нормального й тьмяного."
 
-LineBreak.title=Line Break
-LineBreak.content=Change the line break format.
+Linebreak.title=Розрив рядка
+Linebreak.content=Вибір формату розриву рядка.
 
-LineSpacing.title=Line Spacing
-LineSpacing.content=Change the spacing between lines of text.
+Linespacing.title=Міжрядковий інтервал
+Linespacing.content=Зміна відстані між рядками тексту.
 
-MarkVersion.title=Manual Backup
-MarkVersion.content="Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file."
+Markversion.title=Резервне копіювання вручну
+Markversion.content="Не закриваючи файл, ви можете створити резервну копію поточного файлу в сховище файлів, і додати примітки до файлу резервної копії."
 
-Markup.title=Revision Markup
-Markup.content=Show or hide revision markups in the document.
+Markup.title=Виправлення
+Markup.content=Показати або сховати виправлення в документі.
 
-MasterLayout.title=Master Layout
-MasterLayout.content=Set the placeholder elements contained in the slide master.
+Masterlayout.title=Розмітка зразка
+Masterlayout.content=Установити заповнювачі в зразку слайдів.
 
-Media.title=Insert Movie
-Media.content=Insert a movie from local folder
+Media.title=Вставити фільм
+Media.content=Додавання фільму з файлу.
 
-MergeCells.title=Merge Cells
-MergeCells.content=Merge the selected cells into one cell.
+Mergecells.title=Об'єднати комірки
+Mergecells.content=Злиття виділених комірок в одну.
 
-NewComment.title=Insert Comment
-NewComment.content=Create a new comment.
+Newcomment.title=Додавання примітки
+Newcomment.content=Додавання нової примітки.
 
-NewSlide.title=New Slide
-NewSlide.content=Add a new slide to the presentation.
+Newslide.title=Створити слайд
+Newslide.content=Додавання слайда в презентацію.
 
-NewSlide2.title=Other Options
-NewSlide2.content=Click here to select new Duplicate.
+Newslide2.title=Новий слайд або копія
+Newslide2.content=Клацніть тут для створення нового слайда або додавання копії.
 
-NewSlideMaster.title=New Slide Master
-NewSlideMaster.content=Insert a new slide master.
+Newslidemaster.title=Вставка нового зразка слайдів
+Newslidemaster.content=Додавання нового зразка слайда.
 
-NewTitleMaster.title=New Title Master
-NewTitleMaster.content=Insert a slide master with a new title style.
+Newtitlemaster.title=Створити зразок заголовків
+Newtitlemaster.content=Додавання зразка слайдів з новим стилем заголовка.
 
-NewWindow.title=New Window
-NewWindow.content=Open a new window containing a view of the current document.
+Newwindow.title=Нове вікно
+Newwindow.content=Відкрити нове вікно з видом поточного документа.
 
-NextComment.title=Next Comment
-NextComment.content=Next comment.
+Nextcomment.title=Наступна примітка
+Nextcomment.content= Перехід до наступної примітки.
 
-Normal.title=Normal View
-Normal.content=View the presentation in Normal view.
+Normal.title=Звичайний режим
+Normal.content=Перегляд презентації у звичайному режимі
 
-NudgeShadowDown.title=Nudge Shadow Down
-NudgeShadowDown.content=Move the shadow of the selected object down.
+Nudgeshadowdown.title=Зрушити тінь униз
+Nudgeshadowdown.content=Переміщення тіні виділеного об'єкта вниз.
 
-NudgeShadowLeft.title=Nudge Shadow Left
-NudgeShadowLeft.content=Move the shadow of the selected object to the left.
+Nudgeshadowleft.title=Зрушити тінь уліво
+Nudgeshadowleft.content=Переміщення тіні виділеного об'єкта вліво.
 
-NudgeShadowRight.title=Nudge Shadow Right
-NudgeShadowRight.content=Move the shadow of the selected object to the right.
+Nudgeshadowright.title=Зрушити тінь вправо
+Nudgeshadowright.content=Переміщення тіні виділеного об'єкта вправо.
 
-NudgeShadowUp.title=Nudge Shadow Up
-NudgeShadowUp.content=Move the shadow of the selected object up.
+Nudgeshadowup.title=Зрушити тінь нагору
+Nudgeshadowup.content=Переміщення тіні виділеного об'єкта нагору.
 
-Numbering.title=Numbering
-Numbering.content=Number the selected paragraph.\n\nClick the arrow to select different numbering formats.
+Numbering.title=Нумерація
+Numbering.content="Початок нумерованого списку.\n\nклацніть стрілку для вибору формату нумерації."
 
-Numbering2.title=Numbering
-Numbering2.content=Click the arrow to select different numbering formats.
+Numbering2.title=Нумерація
+Numbering2.content="Клацніть стрільцеві для вибору формату нумерації."
 
-ObjectSelect.title=Selection Pane
-ObjectSelect.content=Show the Selection Pane task window to easily find a single object or set its order and visibility.
-ObjectSelect.img=WPPObjectSelect
+Objectselect.title=Область виділення
+Objectselect.content="Відображення області виділення, яка дозволяє виділити окремі об'єкти, змінити їхній порядок, а також показати або сховати їх."
+Objectselect.img=Wppobjectselect
 
-OrgChartLayout.title=Layout
-OrgChartLayout.content=Chang the branch layout of the selected member.
+Orgchartlayout.title=Макет
+Orgchartlayout.content=Зміна макета виділеного елемента.
 
-Package.title=Package the Presentation File
-Package.content="Copy the presentation file and related media items, such as video, audio, etc. into the specified folder, in order to play this file on another computer."
+Package.title=Упакувати файл презентації
+Package.content="Копіювання файлу презентації й, пов'язаних з ним, елементів медіафайлів, наприклад, відео, звуку і т.д. в обраний каталог для відтворення файлу на іншому комп'ютері."
 
-PageSetup.title=Page Setup
-PageSetup.content=Show the Page Setup dialog box.
-PageSetup.img=WPPPageSetup
+Pagesetup.title=Параметри сторінки
+Pagesetup.content=Показати діалогове вікно \"Параметри сторінки\".
+Pagesetup.img=Wpppagesetup
 
-Paragraph1.title=Alignment
-Paragraph1.content=Click the arrow to select a different alignment.
+Paragraph1.title=Вирівняти
+Paragraph1.content=Клацніть стрілку для вибору способу вирівнювання тексту.
 
-Paragraph2.title=Other options
-Paragraph2.content="Click the arrow to select Increase the Spacing, Decrease the Spacing and Wrap option."
+Paragraph2.title=Інші параметри
+Paragraph2.content=Клацніть стрілку для збільшення або зменшення інтервалу й інших настроювань.
 
-Paste.title=Paste
-Paste.content=Paste the contents of the Clipboard.
+Paste.title=Вставити
+Paste.content=Вставка вмісту буфера обміну.
 
-Paste2.title=Paste
-Paste2.content=Click here for more options such as pasting only unformatted text.
+Paste2.title=Вставити
+Paste2.content="Клацніть тут для вибору інших параметрів, таких як вставка з буфера обміну тільки тексту без форматування."
 
-PictureAdjust.title=Adjust Picture
-PictureAdjust.content=Increase or decrease the contrast and brightness of the selected picture.
+Pictureadjust.title=Настроїти зображення
+Pictureadjust.content=Збільшення або зменшення контрастності і яскравості виділеного зображення.
 
-PictureColor.title=Color
-PictureColor.content="Change the color of the selected picture to give it a back and white, washout or transparent color."
+Picturecolor.title=Колір
+Picturecolor.content="Зміна кольору обраного зображення для додання йому чорно-білого, знебарвленого або прозорого кольори."
 
-PictureCrop.title=Crop Picture
-PictureCrop.content=Crop the picture to remove any unwanted parts.
+Picturecrop.title=Обрізати
+Picturecrop.content=Обрізати зображення для видалення непотрібних фрагментів.
 
-PictureFill.title=Picture Fill
-PictureFill.content="Fill the selected object with a color, gradient, pattern and picture.\n\nClick the arrow to select different fill effects."
+Picturefill.title=Заливання зображення
+Picturefill.content="Заливання виділеного зображення кольором, застосування градієнта, текстури, візерунків і малюнків.\n\nклацніть стрілку для вибору способу заливання."
 
-PictureFill2.title=Picture Fill
-PictureFill2.content=Click the arrow to select different fill effects.
+Picturefill2.title=Заливання зображення
+Picturefill2.content="Клацніть стрільцеві для вибору способу заливання."
 
-PictureLine.title=Picture Outline
-PictureLine.content="Set picture outline color, outline width and outline style for the selected object.\n\nClick the arrow to select detailed settings for the outline."
+Pictureline.title=Контур зображення
+Pictureline.content="Вибір кольору, ширини й типу лінії для контуру виділеного об'єкта.\n\nклацніть стрілку для вибору детальних настроювань границь."
 
-PictureLine2.title=Picture Outline
-PictureLine2.content=Click the arrow to select detailed settings for the outline.
+Pictureline2.title=Контур зображення
+Pictureline2.content=Клацніть стрілку для вибору детальних настроювань границь.
 
-PictureSetTransparentColor.title=Set Transparent Color
-PictureSetTransparentColor.content="Make a color in the current picture transparent.\n\nWhen you click a pixel in the current graphic, all pixels of that specific color become transparent."
+Picturesettransparentcolor.title=Установити прозорий колір
+Picturesettransparentcolor.content=Установка прозорого кольору зображення.\n\nпри клацанні пікселя на поточному зображенні всі пікселі відповідного кольору стають прозорими.
 
-PictureSize.title=Picture Size
-PictureSize.content="Change the size, rotation degree and zoom scale of the selected shape."
+Picturesize.title=Розмір зображення
+Picturesize.content="Зміна розміру, кута повороту й масштабу виділеної фігури."
 
-PictureToolsDetailedSettings.title=PictureToolsDetailedSettings Title
-PictureToolsDetailedSettings.content=PictureToolsDetailedSettings Content
+Picturetoolsdetailedsettings.title=Picturetoolsdetailedsettings Title
+Picturetoolsdetailedsettings.content=Picturetoolsdetailedsettings Content
 
-PreComment.title=Previous Comment
-PreComment.content=Previous comment.
+Precomment.title=Попередня примітка
+Precomment.content= Перехід до попередньої примітки.
 
-PreserveMaster.title=Preserve Master
-PreserveMaster.content=Preserve the selected master slide. Even if it is unused it can still remain in the presentation.
+Preservemaster.title=Зберегти зразок
+Preservemaster.content="Збереження обраного майстра-слайда. Він може залишатися в презентації, навіть якщо не використовується."
 
-PrevClose.title=Close
-PrevClose.content=Close the Print Preview and return to the presentation editing mode.
+Prevclose.title=Закрити
+Prevclose.content=Закрити вікно попереднього перегляду й повернутися до редагування презентації.
 
-PrevFrameSlides.title=Frame Slide
-PrevFrameSlides.content=Add borders around the slide.
+Prevframeslides.title=Границі слайда
+Prevframeslides.content=Додавання границь навколо слайда.
 
-PrevLandscape.title=Landscape
-PrevLandscape.content="Set the page layout to landscape in the printing of handouts, notes pages and outline."
+Prevlandscape.title=Альбомна
+Prevlandscape.content=Установка альбомного макета сторінки.
 
-PrevNextPage.title=Next Page
-PrevNextPage.content=Navigate to the next page in the presentation.
+Prevnextpage.title=Наступна сторінка
+Prevnextpage.content= Перехід до наступної сторінки презентації.
 
-PrevPortrait.title=Portrait
-PrevPortrait.content="Set the page layout to portrait in the printing of handouts, notes pages and outline."
+Prevportrait.title=Книжкова
+Prevportrait.content=Установка книжкового макета презентації.
 
-PrevPrintHiddenSlide.title=Print Hidden Slides
-PrevPrintHiddenSlide.content=Display hidden slides in Print Preview.
+Prevprinthiddenslide.title=Друк схованих файлів
+Prevprinthiddenslide.content=Показати сховані слайди в режимі попереднього перегляду.
 
-PreviewPage.title=Previous Page
-PreviewPage.content=Navigate to the previous page in the presentation.
+Previewpage.title=Попередня сторінка
+Previewpage.content=Повернення до попередньої сторінки презентації.
 
-Print.title=Print
-Print.content="Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom."
+Print.title=Друк
+Print.content="Вибір параметрів друку, таких як, принтер, діапазон друку, число екземплярів, що друкуються, кількість сторінок на аркуші й масштаб."
 
-Print2.title=Print
-Print2.content="Click here to select detailed settings for printing, or to use the default print settings to print directly."
+Print2.title=Друк
+Print2.content="Клацніть тут для вибору параметрів друку або використання настроювань за замовчуванням для швидкої друку."
 
-PrintDirect.title=Quick Print
-PrintDirect.content=Use the default printer to print directly.
+Printdirect.title=Швидка печатка
+Printdirect.content="Відправити документ без змін на принтер, заданий за замовчуванням."
 
-PrintPreview.title=Print Preview
-PrintPreview.content=Preview page effects before printing.
+Printpreview.title=Попередній перегляд
+Printpreview.content=Попередній перегляд і внесення змін перед печаткою.
 
-PrintingOrder.title=Printing Order
-PrintingOrder.content=Set the order of printed handouts vertically or horizontally.
+Printingorder.title=Порядок друку
+Printingorder.content=Установити порядок видачі на печатку в альбомному або книжковому макеті.
 
-RB_Clipboard.title=Clipboard
-RB_Clipboard.content=View all items copied to the clipboard.
-RB_Clipboard.img=WPPClipboard
+RB_Clipboard.title=Буфер обміну
+RB_Clipboard.content="Перегляд елементів, скопійованих у буфер обміну."
+RB_Clipboard.img=Wppclipboard
 
-RB_Font.title=Font
-RB_Font.content=Show the Font dialog box.
-RB_Font.img=WPPFont
+RB_Font.title=Шрифт
+RB_Font.content=Показати діалогове вікно \"Шрифт\".
+RB_Font.img=Wppfont
 
-RecentFillColor.title=Shading
-RecentFillColor.content="Use colors, gradients, textures, and pictures to fill the selected table in the current slide.\n\nClick the arrow to select different fill effects."
+Recentfillcolor.title=Заливання
+Recentfillcolor.content="Використання кольору, градієнта, текстур і зображень як тла виділеної таблиці.\n\nклацніть стрілку для вибору способу заливання."
 
-RecentFillColor2.title=Shading
-RecentFillColor2.content=Click the arrows to select different fill effects.
+Recentfillcolor2.title=Заливання
+Recentfillcolor2.content="Клацніть стрільцеві для вибору способу заливання."
 
-Rehearse.title=Rehearse Timings
-Rehearse.content=Start a full-screen slide show in which you can rehearse your presentation.\n\nThe amount of time you spend on each slide is recorded and you can save those timings to run the show automatically in the future.
+Rehearse.title=Настроювання часу
+Rehearse.content="Запуск повноекранного показу слайдів для перевірки презентації.\n\nзаписується час демонстрації кожного слайда з можливістю збереження цих даних для автоматичного показу слайдів презентації."
 
-RenameMaster.title=Rename Master
-RenameMaster.content=Rename the selected master slide.
+Renamemaster.title=Перейменувати зразок
+Renamemaster.content=Перейменування обраного зразка слайдів.
 
-Replace.title=Replace
-Replace.content=Replace text in the document.
+Replace.title=Замінити
+Replace.content=Заміна тексту в документі.
 
-Replace2.title=Replace
-Replace2.content=Click here to replace the text or font in document.
+Replace2.title=Замінити
+Replace2.content="Клацніть тут для заміни тексту або шрифту в документі."
 
-ResetLayout.title=Reset Layout
-ResetLayout.content=Reset to the default layout
+Resetlayout.title=Відновити вихідний макет
+Resetlayout.content=Скасування всіх змін для даного макета.
 
-ResetPicture.title=Reset Picture
-ResetPicture.content=Discard all the formatting changes you have made to this picture.
+Resetpicture.title=Відновити вихідне зображення
+Resetpicture.content=Скасування всіх змін форматування для даного зображення.
 
-ResetShape.title=Reset Shape
-ResetShape.content=Discard all of the formating changes made to the selected shape.
+Resetshape.title=Відновити вихідні параметри фігури
+Resetshape.content=Скасування всіх змін форматування для виділеної фігури.
 
-Rotate.title=Rotate
-Rotate.content=Rotate or flip the selected object.
+Rotate.title=Повернути
+Rotate.content=Поворот або дзеркальне відображення виділеного об'єкта.
 
-Ruler.title=Ruler
-Ruler.content="Show or hide the rulers, used to measure and line up objects in the document."
+Ruler.title=Лінійка
+Ruler.content="Показати лінійки, використовувані для виміру й вирівнювання об'єктів у документі."
 
-RunMacro.title=View Macros
-RunMacro.content="Show the Macros dialog box. View the list of macros, from which you can run, create, or delete a macro."
+Runmacro.title=Макроси
+Runmacro.content="Висновок списку макросів для виконання, створення або видалення макросу."
 
-SaveBackgroundPicture.title=Save Background Picture
-SaveBackgroundPicture.content=Save slide's background as picture.
+Savebackgroundpicture.title=Зберегти фонове зображення
+Savebackgroundpicture.content=Збереження тла слайда у вигляді зображення.
 
-Security.title=Macro Security
-Security.content=Customize the macro security settings.
+Security.title=Безпека макросів
+Security.content=Настроювання параметрів безпеки макросів.
 
-Select.title=Select
-Select.content="Select text, table or object in the document."
+Select.title=Виділити
+Select.content="Виділення рядка, таблиці або об'єкта в документі."
 
-SelectAll.title=Select All
-SelectAll.content="Use Select All to select the slide, object, or text content in the presentation."
+Selectall.title=Виділити всі
+Selectall.content="Виділення слайда, об'єкта або тексту в презентації."
 
-SendBackward.title=Send Backward
-SendBackward.content=Send the selected object backward so that it is hidden by the objects that are in fornt of it.
+Sendbackward.title=Перемістити назад
+Sendbackward.content="Перемістити об'єкт на один рівень назад або за всіма іншими об'єктами."
 
-SendBackward2.title=Send Backward
-SendBackward2.content=Send the selected object back one level or to the back of all objects.
+Sendbackward2.title=Перемістити назад
+Sendbackward2.content=Перемістити об'єкт на один рівень назад або за всіма іншими об'єктами.
 
-SetUpShow.title=Set Up Slide Show
-SetUpShow.content="Show the Set Up Show dialog box to set up the advanced options for the slide show, such as kiosk mode."
-SetUpShow.img=WPPSetUpShow
+Setupshow.title=Параметри показу слайдів
+Setupshow.content="Виклик діалогового вікна \"Параметри показу слайдів\" для настроювання додаткових параметрів показу слайдів, наприклад, режиму повного екрана."
+Setupshow.img=Wppsetupshow
 
-ShadowButton.title=Text Shadow
-ShadowButton.content=Set the shadow effects to the selected text.
+Shadowbutton.title=Тінь тексту
+Shadowbutton.content=Додавання ефекту тіні до виділеного тексту.
 
-ShadowColor.title=Shadow Color
-ShadowColor.content=Set the shadow color of the selected object.\n\nClick the arrow to select different shadow colors.
+Shadowcolor.title=Колір тіні
+Shadowcolor.content=Вибір кольору тіні для обраного об'єкта.\n\nклацніть стрілку для вибору кольору тіні.
 
-ShadowColor2.title=Shadow Color
-ShadowColor2.content=Click the arrow to select different shadow colors.
+Shadowcolor2.title=Колір тіні
+Shadowcolor2.content="Клацніть стрільцеві для вибору кольору тіні."
 
-ShadowOnOff.title=Shadow On/Off
-ShadowOnOff.content=Turn on or off the shadow effect of the selected object.
+Shadowonoff.title=Показати або сховати тінь
+Shadowonoff.content=Показати або сховати тінь для виділеного об'єкта.
 
-ShadowPalette.title=Shadow Effects
-ShadowPalette.content=Set shadow effect to the selected object.
+Shadowpalette.title=Ефекти тіні
+Shadowpalette.content=Вибір ефектів тіні для виділеного об'єкта.
 
-ShapeEffects.title=Shape Effects
-ShapeEffects.content=Apply a shadow effect and 3-D effect to the selected shape.
+Shapeeffects.title=Ефекти фігур
+Shapeeffects.content=Застосування 3-d ефектів і тіні до виділеної фігури.
 
-ShapeFill.title=Shape Fill
-ShapeFill.content="Fill the selected shape with a solid color, gradient, picture, or texture.\n\nClick the arrow to select different fill effects."
+Shapefill.title=Заливання фігури
+Shapefill.content="Заливання виділеної фігури кольором, градієнтом, малюнком або текстурою.\n\nщелкните стрілку для вибору способу заливання."
 
-ShapeFill2.title=Shape Fill
-ShapeFill2.content=Click the arrow to select different fill effects.
+Shapefill2.title=Заливання фігури
+Shapefill2.content=Клацніть стрілку для вибору способу заливання.
 
-ShapeLine.title=Shape Outline
-ShapeLine.content="Set the color, width and line style for the outline of the selected object.\n\nClick the arrow to select detailed settings for the outline."
+Shapeline.title=Контур фігури
+Shapeline.content="Вибір кольору, ширини й типу лінії для контуру виділеного об'єкта.\n\nщелкните стрілку для вибору детальних настроювань контуру."
 
-ShapeLine2.title=Shape Outline
-ShapeLine2.content=Click the arrow to select detailed settings for the outline.
+Shapeline2.title=Контур фігури
+Shapeline2.content=Клацніть стрілку для вибору детальних настроювань контуру.
 
-ShapeSize.title=Shape Size
-ShapeSize.content="Set the size, rotation degrees and zoom for the selected shape."
+Shapesize.title=Розмір фігури
+Shapesize.content="Завдання розміру, кута повороту й масштабу для виділеної фігури."
 
-ShowHideGrid.title=Gridlines
-ShowHideGrid.content=Show or hide the gridlines  in the presentation.
+Showhidegrid.title=Сітка
+Showhidegrid.content=Показати сітку в презентації.
 
-ShowHideMark.title=Show/Hide Comments
-ShowHideMark.content=Show/hide the comments.
+Showhidemark.title=Показати виправлення
+Showhidemark.content=Показати примітки й виправлення.
 
-SimplifiedChinese.title=Simplified
-SimplifiedChinese.content=Convert the document to Simplified Chinese.
+Simplifiedchinese.title=Спрощений
+Simplifiedchinese.content=Перетворення в символи спрощеного китайського листа.
 
-SkipSlide.title=Hide Slide
-SkipSlide.content=Hide the current slide from the presentation. It will not be shown during full-screen slide show.
+Skipslide.title=Сховати слайд
+Skipslide.content=Сховати поточний слайд презентації. Він не буде відображатися при показі слайдів у повноекранному режимі.
 
-SlideDesign.title=Design Templates
-SlideDesign.content=Show the Slide Design - Design Templates task window to apply different templates to the current slide or entire presentation.
-SlideDesign.img=WPPSlideDesign
+Slidedesign.title=Шаблони оформлення
+Slidedesign.content=В області завдань виберіть \"Оформлення слайда -> Шаблони оформлення\" для застосування інших шаблонів до виділеного слайда або всій презентації.
+Slidedesign.img=Wppslidedesign
 
-SlideLayout.title=Slide Layout
-SlideLayout.content="Show the Slide Layout task window to set up various slide layouts to selected slides, including text layouts, content layouts, text and content layouts and other layouts."
-SlideLayout.img=WPPSlideLayout
+Slidelayout.title=Макет слайда
+Slidelayout.content=Відображення макетів слайда в області завдань при виборі макета для виділеного слайда.
+Slidelayout.img=Wppslidelayout
 
-SlideMaster.title=Slide Master
-SlideMaster.content=Open Slide Master view to change the design and layout of the master slides.
+Slidemaster.title=Зразок слайдів
+Slidemaster.content="Перехід у режим зразка слайдів, призначеного для зміни оформлення й макета зразків слайдів."
 
-SlideMasterClose.title=Close Master View
-SlideMasterClose.content=Close Slide Master View and return to the edit the slide show.
+Slidemasterclose.title=Закрити режим зразка
+Slidemasterclose.content=Закриття вікна режиму зразка й повернення до редагування слайдів.
 
-SlideNumber.title=Insert Slide Number
-SlideNumber.content=Insert the slide number to the current slide or entire presentation. The slide number reflects the position of the slide within the presentation.
+Slidenumber.title=Додавання номера слайда
+Slidenumber.content=Вставка номера слайда. Номер слайда відповідає положенню слайда в презентації.
 
-SlideOrientation.title=Slide Orientation
-SlideOrientation.content=Switch the slide orientation between portrait and landscape.
+Slideorientation.title=Орієнтація слайда
+Slideorientation.content=Вибір книжкової або альбомної орієнтації слайда.
 
-SlidePreview.title=Preview
-SlidePreview.content=Preview the animations and transition effects on the current slide.
+Slidepreview.title=Перегляд переходів
+Slidepreview.content=Перегляд анімацій і ефектів переходу на цьому слайді.
 
-SlideShow.title=Slide Show from Beginning
-SlideShow.content=Start the slide show from the first slide.
+Slideshow.title=Показ слайдів з початку
+Slideshow.content=Запуск показу слайдів з першого слайда.
 
-SlideShowFromCurrent.title=Slide Show from Current Slide
-SlideShowFromCurrent.content=Start the slide show from the current slide.
+Slideshowfromcurrent.title=Показ слайдів з поточного слайда
+Slideshowfromcurrent.content=Запуск показу слайдів з поточного слайда.
 
-SlideShowFromCurrent2.title=Start Slide Show
-SlideShowFromCurrent2.content=Click here to select From Beginning or From Current Slide.
+Slideshowfromcurrent2.title=Показ слайдів
+Slideshowfromcurrent2.content=Клацніть тут для запуску показу слайдів з першого слайда або з поточного слайда.
 
-SlideSorter.title=Slide Sorter View
-SlideSorter.content=View the presentation in Slide Sorter view to easily rearrange slides.
+Slidesorter.title=Режим сортувальника слайдів
+Slidesorter.content="Перегляд презентації в режимі сортувальника слайдів, у якому легко змінити порядок слайдів."
 
-SlideTransition.title=Slide Transition
-SlideTransition.content=Show the Slide Transition task window to set up transition effects to the selected slides or entire presentation.
-SlideTransition.img=WPPTransitionEffect
+Slidetransition.title=Зміна слайдів
+Slidetransition.content=Застосування ефектів перехід до поточного слайда або всій презентації.
+Slidetransition.img=Wpptransitioneffect
 
-SmartChoice.title=Smart Choice
-SmartChoice.content="Choose the same level of members, the same branch of members, all assistants or all connecting lines."
+Smartchoice.title=Інтелектуальний вибір
+Smartchoice.content="Установка однакового рівня для всіх елементів, помічників і сполучних ліній."
 
-Sound.title=Insert Sound
-Sound.content=Insert a sound clip or music from local folder.
+Sound.title=Вставити звук
+Sound.content=Вставка звукового файлу або музики з файлу.
 
-SpeakerNotes.title=Speaker Notes
-SpeakerNotes.content="Add a note to the current slide.\n\nWhen you want to make notes but do not wish to exit the slide show, right click on the screen and select Speaker Notes to make notes in the notes pane of the current slide."
+Speakernotes.title=Замітки доповідача
+Speakernotes.content="Додавання замітки до поточного слайда.\n\nякщо ви прагнете додати замітки, але не прагнете виходити з режиму демонстрації, клацніть правою кнопкою миші на екрані й виберіть пункт \"Замітки доповідача\" для додавання замітки до слайда."
 
-SplitCells.title=Split Cells
-SplitCells.content=Split the selected cells into multiple new cells.
+Splitcells.title=Розділити комірки
+Splitcells.content=Розбивка виділених комірок на кілька нових комірок.
 
-StopAutoVersion.title=Stop Auto Backup
-StopAutoVersion.content=Stop the auto backup of the current document.
+Stopautoversion.title=Зупинити автоматичне резервне копіювання
+Stopautoversion.content=Зупинка автоматичного резервного копіювання поточного документа.
 
-Subscript.title=Subscript
-Subscript.content=Create small letters below the text baseline.
+Subscript.title=Підрядковий знак
+Subscript.content=Вставка невеликих символів нижче лінії тексту.
 
-Superscript.title=Superscript
-Superscript.content=Create small letters above the line of text.
+Superscript.title=Надрядковий знак
+Superscript.content=Вставка невеликих символів вище лінії тексту.
 
-Superscript2.title=Other Options
-Superscript2.content=Click the arrow to select Superscript and Subscript.
+Superscript2.title=Інші параметри
+Superscript2.content=Клацніть стрільцеві для вибору надрядкових або підрядкових знаків.
 
-SwitchWindow.title=Switch Windows
-SwitchWindow.content=Switch to a different currently open window.
+Switchwindow.title=Перейти в інше вікно
+Switchwindow.content=Перехід в інше відкрите вікно.
 
-TableCenter.title=Center
-TableCenter.content=Center text.
+Tablecenter.title=Вирівняти по центру
+Tablecenter.content=Вирівнювання тексту по центру.
 
-TableLeft.title=Align Text Left
-TableLeft.content=Align text to the left.
+Tableleft.title=Вирівняти текст по лівому краю
+Tableleft.content=Вирівнювання тексту по лівому краю.
 
-TableRight.title=Align Text Right
-TableRight.content=Align text to the right.
+Tableright.title=Вирівняти текст по правому краю
+Tableright.content=Вирівнювання тексту по правому краю.
 
-TableStyle.title=Table Style
-TableStyle.content=Show the Table Style task window
-TableStyle.img=WPPTableStyle
+Tablestyle.title=Стиль таблиці
+Tablestyle.content=Показати стилі таблиці в області завдань.
+Tablestyle.img=Wpptablestyle
 
-TaskPane.title=Task Window
-TaskPane.content=Show or hide the task window in the presentation.
+Taskpane.title=Область завдань
+Taskpane.content=Показати або сховати область завдань у презентації.
 
-TextBox.title=Draw Horizontal Text Box
-TextBox.content=Insert a horizontal text box into the document.
+Textbox.title=Намалювати горизонтальний напис
+Textbox.content=Вставка горизонтального напису в документ.
 
-TextBox2.title=Draw Text Box
-TextBox2.content=Click here to insert either horizontal or vertical text box.
+Textbox2.title=Намалювати напис
+Textbox2.content=Клацніть тут для вставки горизонтальної або вертикального напису.
 
-TextDirection.title=Text Direction
-TextDirection.content="Customize either horizontal or vertical text orientation to the current section, the whole document, or the selected text box and table."
+Textdirection.title=Напрямок тексту
+Textdirection.content=Зміна орієнтації тексту на вертикальну або горизонтальну.
 
-TextFontColor.title=Text Color
-TextFontColor.content=Set the text color.\n\nClick the arrow to select a different text color.
+Textfontcolor.title=Колір тексту
+Textfontcolor.content=Вибір кольору тексту.\n\nклацніть стрілку для вибору кольору тексту.
 
-TextFontColor2.title=Text Color
-TextFontColor2.content=Click the arrow to select a different text color.
+Textfontcolor2.title=Колір тексту
+Textfontcolor2.content=Клацніть стрільцеві для вибору кольору тексту.
 
-TextMargin.title=Cell Margins
-TextMargin.content=Specify the margins for the selected cells.
+Textmargin.title=Поля комірки
+Textmargin.content=Завдання полів для виділених комірок.
 
-TraditionalChinese.title=Traditional
-TraditionalChinese.content=Convert the document to Traditional Chinese.
+Traditionalchinese.title=Традиційний
+Traditionalchinese.content=Перетворити в символи традиційного китайського листа.
 
-TransitionEffect.title=Transition Effects
-TransitionEffect.content=Show the Slide Transition task window to set up transition effects to the selected slides or entire presentation.
-TransitionEffect.img=WPPTransitionEffect
+Transitioneffect.title=Ефекти переходу
+Transitioneffect.content=Вибір ефектів переходу для виділеного слайда або всієї презентації.
+Transitioneffect.img=Wpptransitioneffect
 
-Underline.title=Underline
-Underline.content=Underline the selected text.
+Underline.title=Підкреслення
+Underline.content=Підкреслення виділеного тексту.
 
-VisualBasicEditor.title=Visual Basic Editor
-VisualBasicEditor.content=Open Visual Basic editor to edit macros.
+Visualbasiceditor.title=Редактор Visual Basic
+Visualbasiceditor.content=Відкриття редактора Visual Basic.
 
-WordArtAlignment.title=Alignment
-WordArtAlignment.content=Set alignment to individual lines of multi-line WordArt in document.
+Wordartalignment.title=Вирівнювання
+Wordartalignment.content=Вибір типу вирівнювання для окремих рядків фігурного тексту.
 
-WordArtCharacterSpacing.title=Character Spacing
-WordArtCharacterSpacing.content=Change the spacing between the letters of the selected WordArt text.
+Wordartcharacterspacing.title=Міжзнаковий інтервал
+Wordartcharacterspacing.content=Зміна інтервалу між буквами виділеного фігурного тексту.
 
-WordArtDetailedSettings.title=WordArtDetailedSettings Title
-WordArtDetailedSettings.content=WordArtDetailedSettings Content
+Wordartdetailedsettings.title=Wordartdetailedsettings Title
+Wordartdetailedsettings.content=Wordartdetailedsettings Content
 
-WordArtFill.title=WordArt Fill
-WordArtFill.content="Fill the selected WordArt with a solid color, gradient, texture and picture.\n\nClick the arrow to select different fill effects."
+Wordartfill.title=Заливання
+Wordartfill.content="Заливання виділеного фігурного тексту кольором, градієнтом, зображенням або текстурою.\n\nклацніть стрілку для вибору способу заливання."
 
-WordArtFill2.title=WordArt Fill
-WordArtFill2.content=Click the arrow to select different fill effects..
+Wordartfill2.title=Заливання
+Wordartfill2.content=Клацніть стрільцеві для вибору способу заливання.
 
-WordArtGallery.title=WordArt Gallery
-WordArtGallery.content=Change the style of the selected WordArt.
+Wordartgallery.title=Колекція
+Wordartgallery.content=Зміна стилю виділеного фігурного тексту.
 
-WordArtLine.title=WordArt Outline
-WordArtLine.content="Set the color, width and line style for the outline of the selected WordArt.\n\nClick the arrow to select detailed settings for the outline."
+Wordartline.title=Контур
+Wordartline.content="Вибір кольору, ширини й типу лінії для контуру виділеного фігурного тексту.\n\nклацніть стрілку для вибору стилю контуру."
 
-WordArtLine2.title=WordArt Outline
-WordArtLine2.content=Click the arrow to select more outline styles.
+Wordartline2.title=Контур
+Wordartline2.content=Клацніть стрільцеві для вибору стилю контуру.
 
-WordArtSameLetterHeights.title=Same Letter Heights
-WordArtSameLetterHeights.content=Make all the letters of the selected WordArt exactly the same height.
+Wordartsameletterheights.title=Символи однієї висоти
+Wordartsameletterheights.content=Вирівнювання висоти всіх символів виділеного фігурного тексту.
 
-WordArtShapePalette.title=WordArt Shape
-WordArtShapePalette.content=Change the shape style of the selected WordArt.
+Wordartshapepalette.title=Форма
+Wordartshapepalette.content=Зміна стилю форми для виділеного фігурного тексту.
 
-WordArtSize.title=WordArt Size
-WordArtSize.content="Set the size, rotation degree and scale of the selected WordArt."
+Wordartsize.title=Розмір тексту
+Wordartsize.content="Вибір розміру, кута повороту й масштабу для виділеного фігурного тексту."
 
-WordArtVerticalText.title=Vertical Text
-WordArtVerticalText.content="Draw the text vertically, with the letters stacked on top of each other."
+Wordartverticaltext.title=Вертикальний текст
+Wordartverticaltext.content="Малювання тексту по вертикалі із символами, розташованими один над іншим."
 
-WorkSpace_Backup.title=WorkSpace_Backup Title
-WorkSpace_Backup.content=WorkSpace_Backup Content
+Workspace_Backup.title=Workspace_Backup Title
+Workspace_Backup.content=Workspace_Backup Content
 
-WpPrintWhat_1.title=Handouts (one slide per page)
-WpPrintWhat_1.content=Set up the print what as Handout (one slide per page).
+Wpprintwhat_1.title=Видачі (1 слайд на сторінку)
+Wpprintwhat_1.content=Установка порядку друку як \"Видачі (1 слайд на сторінку)\".
 
-WpPrintWhat_1Notes.title=Notes (one slide per page)
-WpPrintWhat_1Notes.content="Set up the print what as Notes Pages (one slide per page, notes to the right of the slide)."
+Wpprintwhat_1Notes.title=Замітки (1 слайд на сторінку)
+Wpprintwhat_1Notes.content="Установка порядку друку як \"Сторінки заміток (1 слайд на сторінку, замітки праворуч від слайда)\"."
 
-WpPrintWhat_2.title=Handouts (two slides per page)
-WpPrintWhat_2.content=Set up the print what as Handout (two slides per page).
+Wpprintwhat_2.title=Видачі (2 слайда на сторінку)
+Wpprintwhat_2.content=Установка порядку друку як \"Видачі (2 слайда на сторінку)\".
 
-WpPrintWhat_3.title=Handouts(three slide per page)
-WpPrintWhat_3.content=Set up the print what as Handout (three slides per page).
+Wpprintwhat_3.title=Видачі (3 слайда на сторінку)
+Wpprintwhat_3.content=Установка порядку друку як \"Видачі (3 слайда на сторінку)\".
 
-WpPrintWhat_3Notes.title=Notes(three slide per page)
-WpPrintWhat_3Notes.content="Set up the print what as Notes Pages (three slides per page, notes to the right of the slides)."
+Wpprintwhat_3Notes.title=Замітки (3 слайда на сторінку)
+Wpprintwhat_3Notes.content="Установка порядку друку як \"Сторінки заміток (3 слайда на сторінку, замітки праворуч від слайда)\"."
 
-WpPrintWhat_4.title=Handouts(four slide per page)
-WpPrintWhat_4.content=Set up the print what as Handout (four slides per page).
+Wpprintwhat_4.title=Видачі (4 слайда на сторінку)
+Wpprintwhat_4.content=Установка порядку друку як \"Видачі (4 слайда на сторінку)\".
 
-WpPrintWhat_6.title=Handouts(six slide per page)
-WpPrintWhat_6.content=Set up the print what as Handout (six slides per page).
+Wpprintwhat_6.title=Видачі (6 слайдів на сторінку)
+Wpprintwhat_6.content=Установка порядку друку як \"Видачі (6 слайдів на сторінку)\".
 
-WpPrintWhat_9.title=Handouts(nine slide per page)
-WpPrintWhat_9.content=Set up the print what as Handout (nine slides per page).
+Wpprintwhat_9.title=Видачі (9 слайдів на сторінку)
+Wpprintwhat_9.content=Установка порядку друку як \"Видачі (9 слайдів на сторінку)\".
 
-WpPrintWhat_OutlineView.title=Outline view
-WpPrintWhat_OutlineView.content=Set up the print what as Outline View. Slide content showed in print page by outline way.
+Wpprintwhat_Outlineview.title=Режим структури
+Wpprintwhat_Outlineview.content=Установка друку вмісту презентації в режимі структури.
 
-WpPrintWhat_Slides.title=Printing Content
-WpPrintWhat_Slides.content=Set the printing content as Slide (one slide per page).
+Wpprintwhat_Slides.title=Друк вмісту
+Wpprintwhat_Slides.content=Установка друку вмісту на \"Видачі (1 слайд на сторінку)\".
 
-WpPrintWhat_Slides2.title=Printing Content
-WpPrintWhat_Slides2.content="Click here to select more printing content, such as Slides, Handouts, Notes pages and Outline."
+Wpprintwhat_Slides2.title=Друк вмісту
+Wpprintwhat_Slides2.content="Клацніть тут для вибору вмісту для друку, наприклад, слайди, видачі, сторінки заміток, структура."
 
-Zoom.title=Zoom
-Zoom.content=Show the Zoom dialog box to specify the zoom level of the document.
+Zoom.title=Масштаб
+Zoom.content="Показати діалогове вікно \"Масштаб\" для вибору масштабу документа."
 
-ZoomCombo.title=Zoom
-ZoomCombo.content=Select the zoom size of the current presentation.
+Zoomcombo.title=Масштаб
+Zoomcombo.content=Вибір масштабу для поточної презентації.
 
-ZoomFit.title=Fit to Window
-ZoomFit.content=Zoom the presentation so that the slide fits the window.
+Zoomfit.title=Вписати у вікно
+Zoomfit.content="Зміна масштабу презентації так, щоб слайд заповнював вікно цілком."
 
-sp_Macros.title=View Macros
-sp_Macros.content="Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro."
+sp_Macros.title=Макроси
+sp_Macros.content=" Вивід списку макросів для виконання, створення або видалення макросу."
 
-sp_Macros2.title=View Macros
-sp_Macros2.content="View the list of macros, from which you can run, create, or delete a macro."
+sp_Macros2.title=Макроси
+sp_Macros2.content="Вивід списку макросів для виконання, створення або видалення макросу."
 
 weibotool.title=weibotool Title
 weibotool.content=weibotool Content
