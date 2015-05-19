@@ -1,989 +1,988 @@
 [TIPS]
-3DColor.title=3-D Color
-3DColor.content=Fill the selected 3-D shape with color.\n\nClick the arrow to select from different 3-D colors.
+3Dcolor.title=Колір 3-D
+3Dcolor.content="Заповнення кольором, виділеної фігури 3-D.\n\nклацніть стрілку для вибору кольору 3-D."
 
-3DColor2.title=3-D Color
-3DColor2.content=Click the arrow to select from different 3-D colors.
+3Dcolor2.title=Колір 3-D
+3Dcolor2.content=Клацніть стрільцеві для вибору кольору 3-D.
 
-3DDepthMenu.title=Depth
-3DDepthMenu.content=Change the height of the selected 3-D shape.
+3Ddepthmenu.title=Глибина
+3Ddepthmenu.content=Зміна висоти виділеної фігури 3-D.
 
-3DOnOff.title=3-D On/Off
-3DOnOff.content=Turn on or off the 3-D effect applied to the shape.
+3Donoff.title=Застосувати або скасувати ефект 3-D
+3Donoff.content=Застосування або скасування ефекту 3-D.
 
-3DStylePalette.title=3-D Effects
-3DStylePalette.content=Add a 3-D effect to the shape.
+3Dstylepalette.title=Ефекти 3-D
+3Dstylepalette.content=Застосування 3-d ефекту до фігури.
 
-3DSurfaceMenu.title=Surface
-3DSurfaceMenu.content=Choose a surface effect for the selected 3-D shape in the document.
+3Dsurfacemenu.title=Поверхня
+3Dsurfacemenu.content=Вибір типу поверхні для виділеної фігури 3-D у документі.
 
-3DTiltDown.title=Tilt Down
-3DTiltDown.content=Tilt the shape forward.
+3Dtiltdown.title=Нахил уперед
+3Dtiltdown.content=Нахил фігури вперед.
 
-3DTiltLeft.title=Tilt Left
-3DTiltLeft.content=Tilt the shape to the left.
+3Dtiltleft.title=Нахил уліво
+3Dtiltleft.content=Нахил фігури вліво.
 
-3DTiltRight.title=Tilt Right
-3DTiltRight.content=Tilt the shape to the right.
+3Dtiltright.title=Нахил вправо
+3Dtiltright.content=Нахил фігури вправо.
 
-3DTiltUp.title=Tilt Up
-3DTiltUp.content=Tilt the shape backward.
+3Dtiltup.title=Нахил назад
+3Dtiltup.content=Нахил фігури назад.
 
-AdvancedFilter.title=Advanced Filter
-AdvancedFilter.content=Specify complex criteria to limit which records are included in the result set of a query.
+Advancedfilter.title=Розширений фільтр
+Advancedfilter.content="Додавання критеріїв відбору записів, що включаються в результат запиту."
 
-Align.title=Align
-Align.content=Align the edges of multiple selected objects.\n\nYou can also center them or distribute them evenly across the page.
+Align.title=Вирівняти
+Align.content=Вирівнювання по краях декількох виділених об'єктів.\n\nтакож можна вирівняти їх по центру або рівномірно розподілити по всій ширині сторінки.
 
-AlignCenter.title=Center
-AlignCenter.content=Center text.
+Aligncenter.title=Вирівняти по центру
+Aligncenter.content=Вирівнювання тексту по центру.
 
-AlignLeft.title=Align Text Left
-AlignLeft.content=Align text to the left.
+Alignleft.title=Вирівняти текст по лівому краю
+Alignleft.content=Вирівнювання тексту по лівому краю.
 
-AlignRight.title=Align Text Right
-AlignRight.content=Align text to the right.
+Alignright.title=Вирівняти текст по правому краю
+Alignright.content=Вирівнювання тексту по правому краю.
 
-AlignmentFormatCells.title=Format Cells: Alignment
-AlignmentFormatCells.content=Show the Alignment tab of the Format Cells dialog box.
-AlignmentFormatCells.img=ETAlignmentFormatCells
+Alignmentformatcells.title=Формат комірок: вирівнювання
+Alignmentformatcells.content=Показати вкладку \"Вирівнювання\" діалогового вікна \"Формат комірок\".
+Alignmentformatcells.img=Etalignmentformatcells
 
-AllBorders.title=All Borders
-AllBorders.content=Apply borders to the currently selected cells.
+Allborders.title=Усі границі
+Allborders.content=Зміна границь виділених комірок.
 
-AllFunction.title=All Functions
-AllFunction.content=Browse and select from the list that contains all of the functions.
+Allfunction.title=Усі функції
+Allfunction.content=Перегляд і вибір зі спиcка всіх доступних функцій.
 
-AllowEditRanges.title=Allow Users to Edit Ranges
-AllowEditRanges.content="Allow specific people to edit ranges of cells in a protected workbook or sheet.\n\nBefore using this feature, first set security on the sheet by using the protect sheet command."
+Alloweditranges.title=Дозволити зміна діапазонів
+Alloweditranges.content="Дозволити певним користувачам змінювати діапазони комірок захищеної книги або аркуша.\n\nперед використанням цієї функції встановите параметри безпеки за допомогою команди \"Захистити аркуш\"."
 
-ArtisticWordAlignment.title=Alignment
-ArtisticWordAlignment.content=Set alignment to individual lines of multi-line WordArt in document.
+Artisticwordalignment.title=Вирівнювання
+Artisticwordalignment.content=Параметри вирівнювання окремих рядків багаторядкового фігурного тексту в документі.
 
-AutoFilter.title=AutoFilter
-AutoFilter.content="Enable filtering of the selected cells.\n\nOnce filtering is turned on, click the arrow to choose a filter for the column."
+Autofilter.title=Автофільтр
+Autofilter.content="Дозвіл фільтрації виділених комірок.\n\nякщо фільтрація включена, досить клацнути стрільцеві в заголовку стовпця, щоб вибрати фільтр для цього стовпця."
 
-AutoSum.title=AutoSum
-AutoSum.content=Display the sum of the selected cells directly after the selected cells.
-AutoSum.img=ETAutoSum
+Autosum.title=Автосума
+Autosum.content=Показати суму виділених комірок безпосередньо після цих комірок.
+Autosum.img=Etautosum
 
-AutoVersion.title=Enable Auto Backup
-AutoVersion.content="Enable auto backup for the current document, save backup file to File Safe each time the document is closed."
+Autoversion.title=Включити автоматичне резервне копіювання
+Autoversion.content=Включення автоматичного резервного копіювання для поточного документа зі збереженням резервної копії файлу в сховище файлів щораз при закритті документа.
 
-Autobackup.title=File Safe
-Autobackup.content=A brief introduction to File Safe.
+Autobackup.title=Сховище файлів
+Autobackup.content=Коротке введення у функцію \"сховище файлів\".
 
-Average.title=Average
-Average.content=Returns the average (arithmetic mean) of the arguments.
+Average.title=Середнє
+Average.content=Обчислення середнього арифметичного аргументів функції..
 
-Bold.title=Bold
-Bold.content=Make the selected text bold.
+Bold.title=Напівжирний
+Bold.content=Виділення тексту напівжирним шрифтом.
 
-BookProtection.title=Protect Workbook
-BookProtection.content="Prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets."
+Bookprotection.title=Захист книги
+Bookprotection.content="Заборона на внесення небажаних змін у структуру книги, таких як переміщення, видалення або додавання аркушів."
 
-BottomBorder.title=Bottom Border
-BottomBorder.content=Apply borders to the currently selected cells.
+Bottomborder.title=Нижня границя
+Bottomborder.content=Застосувати границі для обраних комірок.
 
-BottomDoubleBorder.title=Bottom Double Border
-BottomDoubleBorder.content=Apply borders to the currently selected cells.
+Bottomdoubleborder.title=Здвоєна нижня границя
+Bottomdoubleborder.content=Додати нижню подвійну границю для виділених комірок.
 
-BringForward.title=Bring Forward
-BringForward.content=Bring the selected object forward so that it is hidden by fewer objects that are in front of it.
+Bringforward.title=Перемістити вперед
+Bringforward.content="Переміщення виділеного об'єкта вперед, щоб він не перекривався іншими об'єктами."
 
-BringForward2.title=Bring Forward
-BringForward2.content=Bring the selected objects forward one level or to the front of all objects.
+Bringforward2.title=Перемістити вперед
+Bringforward2.content=Переміщення виділеного об'єкта вперед або розташування його перед іншими об'єктами
 
-CTB_DesignMode.title=Design Mode
-CTB_DesignMode.content=Enter design mode to edit controls' names and functions.
+CTB_Designmode.title=Режим конструювання
+CTB_Designmode.content=Вхід у режим конструювання для зміни назви й функцій елементів керування.
 
-CTB_MoreControls.title=More Controls
-CTB_MoreControls.content=Click here to insert a control from the set of controls available on this computer.
+CTB_Morecontrols.title=Інші елементи керування
+CTB_Morecontrols.content="Клацніть тут для додавання елемента з набору елементів керування, доступних на цьому комп'ютері."
 
-CTB_Property.title=Control Properties
-CTB_Property.content=View and modify properties for the selected control.
+CTB_Property.title=Властивості елемента керування
+CTB_Property.content=Перегляд і зміна властивостей виділених елементів керування.
 
-CTB_ViewCode.title=View Code
-CTB_ViewCode.content=Show Visual Basic Editor to edit the code of the selected controls.
+CTB_Viewcode.title=Перегляд коду
+CTB_Viewcode.content=Редагування коду Visual Basic для елемента керування.
 
-CalculateSheet.title=Calculate Sheet
-CalculateSheet.content=Calculate the current sheet now.\nThis is only necessary if automatic calculation has been turned off.
+Calculatesheet.title=Перерахувати аркуш
+Calculatesheet.content=Перерахування поточного аркуша.\nце необхідно тільки в тому випадку, якщо автоматичне виконання обчислень відключене.
 
-Camera.title=Camera
-Camera.content=Link cells or cell range to drawing objects. Changes made to data in cells of the worksheet will be automatically shown in drawing objects.
+Camera.title=Знімок виділення
+Camera.content="Зв'язати клітку або діапазон комірок із об'єктами малювання. Зміни, внесені в дані комірок робочого аркуша, будуть автоматично відображені в графічних об'єктах."
 
-ChangeChartType.title=Change Chart Type
-ChangeChartType.content=Change the current chart type.
+Changecharttype.title=Змінити тип діаграми
+Changecharttype.content=Зміна типу діаграми.
 
-ChangePicture.title=Change Picture
-ChangePicture.content="Change to a different picture, preserving the formatting and size of the current picture."
+Changepicture.title=Замінити зображення
+Changepicture.content="Заміна зображення зі збереженням форматування й розміру поточного зображення."
 
-CharacterSpacing.title=WordArt Character Spacing
-CharacterSpacing.content=Change the spacing between the letters of the selected WordArt text.
+Characterspacing.title=Міжзнаковий інтервал
+Characterspacing.content=Зміна інтервалу між буквами виділеного фігурного тексту.
 
-Chart.title=Create Chart
-Chart.content=Show the Chart Type dialog box to select from options such as Chart Type to insert.
-Chart.img=ETChart
+Chart.title=Створити діаграму
+Chart.content="Відкрити діалогове вікно \"Тип діаграми\" для вибору таких параметрів, як тип діаграми."
+Chart.img=Etchart
 
-ChartObjects.title=Chart Objects
-ChartObjects.content=Select a chart element so that you can format it.
+Chartobjects.title=Об'єкти діаграми
+Chartobjects.content=Вибір елемента діаграми для форматування.
 
-ChineseTranslation.title=Simplified to Traditional Chinese
-ChineseTranslation.content=Set Simplified to Traditional Chinese translation based upon the character or word.
+Chinesetranslation.title=Перетворення спрощеного в традиційний китайський
+Chinesetranslation.content=Перетворити спрощений китайський у традиційний на основі символів або слів.
 
-CircularReferences.title=Circular References
-CircularReferences.content=Show the Circular References dialog box. You can search and locate all cells that contain circular references in the workbook.\n\nDouble-click an item in the list of results to switch the corresponding cell.
+Circularreferences.title=Циклічні посилання
+Circularreferences.content="Відкрити вікно \"Циклічні посилання\" для пошуку комірок книги, що містять циклічні посилання.\n\nдвічі клацніть на елемент списку результатів для перехід до відповідної до комірки."
 
-Clear.title=Clear
-Clear.content="Delete everything from the cell, or selectively remove the formatting, the contents, or the comments."
+Clear.title=Очистити
+Clear.content="Видалення всього, що втримується в гнізді, або вибіркове видалення форматування, умісту або приміток."
 
-ClearFilter.title=Show All
-ClearFilter.content=Clear the filter and sort state for the current range of data.
+Clearfilter.title=Показати всі
+Clearfilter.content=Очищення фільтра й стану сортування для поточного діапазону даних.
 
-ClearTableStyle.title=Clear Table Style
-ClearTableStyle.content=Clear table style of selected cells.
+Cleartablestyle.title=Очистити стиль таблиці
+Cleartablestyle.content=Очистити стиль таблиці у виділеному діапазоні.
 
-CloseDevelopmentTools.title=Close
-CloseDevelopmentTools.content=Click here to hide the Development Tool tab.
+Closedevelopmenttools.title=Закрити
+Closedevelopmenttools.content="Клацніть тут, щоб закрити вкладку \"Інструменти розроблювача\"."
 
-CloseOtherWindow.title=Close Other Windows
-CloseOtherWindow.content=Close all other windows except the current one.
+Closeotherwindow.title=Закрити інші вікна
+Closeotherwindow.content="Закрити всі вікна, крім поточного."
 
-CloseWindow.title=Close Window
-CloseWindow.content=Close the current window.
+Closewindow.title=Закрити вікно
+Closewindow.content=Закрити поточне вікно.
 
-ColumnsCenter.title=Across Center
-ColumnsCenter.content="Select continuous cells in one row or multiple rows, set the content of the cells to the center."
+Columnscenter.title= Через центр
+Columnscenter.content="Виділення безперервного ряду кліток в одній або декількох рядках із центруванням їх умісту."
 
-ComAddin.title=COM Add-Ins
-ComAddin.content=Add or delete the available COM Add-Ins.
+Comaddin.title=Надбудови COM
+Comaddin.content=Керування доступними надбудовами COM.
 
-CommaStyle.title=Comma Style
-CommaStyle.content=Display the value of the cell with a thousands separator.
+Commastyle.title=Пробіл між тисячами
+Commastyle.content=Використання роздільника тисяч при відображенні значення комірки.
 
-CompressPictures.title=Compress Pictures
-CompressPictures.content=Compress the selected picture or all pictures in the worksheet to reduce size.
+Compresspictures.title=Стиск зображень
+Compresspictures.content=Стиск обраного зображення або всіх зображень у документі для зменшення розміру.
 
-ConditionalFormat.title=Conditional Formatting
-ConditionalFormat.content="Visually explore and analyze data, detect critical issues, and identify patterns and trends."
+Conditionalformat.title=Умовне форматування
+Conditionalformat.content="Форматування, наприклад, затінення тла або колір шрифту, автоматично застосовуване до комірки, якщо зазначена умова дійсна."
 
-Consolidate.title=Consolidate
-Consolidate.content=Combine values from multiple ranges into one new range.
+Consolidate.title=Консолідувати
+Consolidate.content=Об'єднання значень із декількох діапазонів в один новий діапазон.
 
-Copy.title=Copy
-Copy.content=Copy the selection and put it on the system Clipboard.
+Copy.title=Копіювати
+Copy.content=Скопіювати виділення й помістити в системний буфер обміну.
 
-Count.title=Count
-Count.content=Count the number of cells in a column that contain numbers.
+Count.title=Кількість
+Count.content="Підрахунок кількості комірок у стовпці числа, що містять."
 
-Currency.title=Currency
-Currency.content="Choose an alternate currency format for the selected cell.\n\nFor instance, choose Euros instead of Dollars."
+Currency.title=Грошовий
+Currency.content="Вибір альтернативного формату грошової одиниці для виділеного комірки.\n\nнаприклад, можна вибрати євро замість доларів."
 
-Cut.title=Cut
-Cut.content=Cut the selection and put it on the system Clipboard.
+Cut.title=Вирізати
+Cut.content=Вилучити виділення й помістити в системний буфер обміну.
 
-DataDetailedSettings.title=DataDetailedSettings Title
-DataDetailedSettings.content=DataDetailedSettings Content
+Datadetailedsettings.title=Datadetailedsettings Title
+Datadetailedsettings.content=Datadetailedsettings Content
 
-DataGroup.title=Group
-DataGroup.content=Tie a range of cells together so that they can be collapsed or expanded.
-DataGroup.img=ETDataGroup
+Datagroup.title=Групувати
+Datagroup.content="Групування об'єктів таким чином, щоб надалі їх можна було обробляти як один об'єкт."
+Datagroup.img=Etdatagroup
 
-DataSort.title=Sort
-DataSort.content=Show the Sort dialog box to sort data based on several criteria at once.
+Datasort.title=Сортування
+Datasort.content=Установка режиму автоматичного сортування поля зведеної таблиці.
 
-DataTable.title=Data Table
-DataTable.content=Add a data table to the chart.
+Datatable.title=Таблиця даних
+Datatable.content=Додавання таблиці даних до діаграми.
 
-DataUngroup.title=Ungroup
-DataUngroup.content=Ungroup a range of cells that were previously grouped.
+Dataungroup.title=Розгрупувати
+Dataungroup.content=Розгруповування раніше згрупованого діапазону комірок.
 
-DataUngroup2.title=Ungroup
-DataUngroup2.content=Ungroup a range of cells that were previously grouped.
+Dataungroup2.title= Розгрупувати
+Dataungroup2.content=Розгруповування раніше згрупованого діапазону комірок.
 
-DecreaseDecimal.title=Decrease Decimal
-DecreaseDecimal.content=Show less precise values by showing fewer decimal places.
+Decreasedecimal.title=Зменшити розрядність
+Decreasedecimal.content=Відображення менш точних значень шляхом зменшення числа знаків після коми.
 
-DecreaseIndent.title=Decrease Indent
-DecreaseIndent.content=Decrease the margin between the border and the text in the cell.
+Decreaseindent.title=Зменшити відступ
+Decreaseindent.content=Зменшення поля між границею й текстом комірки.
 
-DeleteComment.title=Delete
-DeleteComment.content=Delete the selected comment.
+Deletecomment.title=Вилучити примітку
+Deletecomment.content=Видалення виділеного примітки.
 
-DeleteRange.title=Delete cells
-DeleteRange.content="Delete the cells, rows, or columns in worksheet."
+Deleterange.title=Вилучити комірки
+Deleterange.content="Видалення комірок, рядків або стовпців аркуша."
 
-DeleteRange2.title=Delete cells
-DeleteRange2.content="Click here to delete cells, rows, or the entire worksheet."
+Deleterange2.title=Вилучити комірки
+Deleterange2.content="Клацніть тут для видалення комірок, рядків або всього аркуша."
 
-DetailedSettings_Data.title=Settings
-DetailedSettings_Data.content=Change the advanced settings of outline.
+Detailedsettings_Data.title=Параметри
+Detailedsettings_Data.content=Зміна детальних параметрів контуру.
 
-DetailedSettings_DrawingTools.title=Settings
-DetailedSettings_DrawingTools.content=Change the settings of shape formatting.
+Detailedsettings_Drawingtools.title=Параметри
+Detailedsettings_Drawingtools.content=Зміна параметрів форматування форм.
 
-DetailedSettings_Home.title=Settings
-DetailedSettings_Home.content=Change the settings of cell formatting.
+Detailedsettings_Home.title=Параметри
+Detailedsettings_Home.content=Зміна параметрів форматування комірок.
 
-DetailedSettings_Layout.title=Settings
-DetailedSettings_Layout.content=Change the settings of page setup.
+Detailedsettings_Layout.title=Параметри
+Detailedsettings_Layout.content=Зміна параметрів сторінки.
 
-DetailedSettings_PictureTool.title=Settings
-DetailedSettings_PictureTool.content=Change the settings of picture formatting.
+Detailedsettings_Picturetool.title=Параметри
+Detailedsettings_Picturetool.content=Зміна параметрів форматування зображення.
 
-DetailedSettings_WordArt.title=Settings
-DetailedSettings_WordArt.content=Change the settings of WordArt formatting.
+Detailedsettings_Wordart.title=Параметри
+Detailedsettings_Wordart.content=Зміна параметрів форматування фігурного тексту.
 
-DevelopmentTools.title=Developer
-DevelopmentTools.content=DevelopmentTools Content
+Developmenttools.title=Розроблювач
+Developmenttools.content=Developmenttools Content
 
-Direction.title=Direction
-Direction.content=Choose the direction effect of the selected 3-D Shape.
+Direction.title=Напрямок
+Direction.content=Вибір ефекту напрямку для виділеної фігури 3-D.
 
-DisplayGridlines.title=View Gridlines
-DisplayGridlines.content=Show the lines between rows and columns in the sheet to make editing and reading easier.\n\nThese lines will not print unless Print is also checked.
+Displaygridlines.title=Показати лінії сітки
+Displaygridlines.content="Показати лінії сітки між рядками й стовпцями аркуша для спрощення редагування й перегляду.\n\nлінії сітки не будуть показані, якщо не встановлений прапорець \"Печатка\"."
 
-DisplayHeadings.title=View Headings
-DisplayHeadings.content=Show row and column headings. \n\nRow headings are the row numbers to the side of the sheet. \n\nColumn headings are the letters or numbers that appear above the columns on a sheet.
+Displayheadings.title=Показати заголовки
+Displayheadings.content="Відображення заголовків рядків і стовпців.\n\nзаголовки рядків – це номера рядків у лівій або правій частині аркуша.\n\nзаголовки стовпців – це букви або цифри, які відображаються над стовпцями аркуша."
 
-DrawBorder.title=Draw Border
-DrawBorder.content="To draw border line, click this option and drag the mouse to draw.\n\nPress Esc on the keyboard or click this option again to exit the drawing mode."
+Drawborder.title=Намалювати границю
+Drawborder.content="Щоб намалювати лінію границі, виберіть цю функцію й пересувайте покажчик миші.\n\nдля виходу з режиму малювання натисніть клавішу Esc на клавіатурі або повторно виберіть цю функцію."
 
-DrawGrid.title=Draw Border Grid
-DrawGrid.content="To draw border grid,click this option and drag the mouse to draw.\n\nPress Esc on the keyboard or click this option again to exit the drawing mode."
+Drawgrid.title=Намалювати границі сітки
+Drawgrid.content="Щоб намалювати границі сітки, виберіть цю функцію й пересувайте покажчик миші.\n\nдля виходу з режиму малювання натисніть клавішу Esc на клавіатурі або повторно виберіть цю функцію."
 
-DrawingToolsDetailedSettings.title=DrawingToolsDetailedSettings Title
-DrawingToolsDetailedSettings.content=DrawingToolsDetailedSettings Content
+Drawingtoolsdetailedsettings.title=Drawingtoolsdetailedsettings Title
+Drawingtoolsdetailedsettings.content=Drawingtoolsdetailedsettings Content
 
-Duplicates.title=Duplicates
-Duplicates.content="Highlight, Reject Input or Remove duplicate rows from a sheet.\n\nYou can specify which columns should be checked for duplicate information."
+Duplicates.title=Вилучити повторення
+Duplicates.content="Виділення, відхилення введення або видалення повторень рядків аркуша.\n\nможна вказати стовпці, які повинні бути перевірені на повторення інформації."
 
-DynamicShape.title=Insert Shapes
-DynamicShape.content="Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts."
+Dynamicshape.title=Вставити фігури
+Dynamicshape.content="Вставка готових форм, таких як лінії, прямокутники, блок-схеми символів і винесення."
 
-EDRProperties.title=Data Range Properties
-EDRProperties.content="Change the external data source names, number format and layout."
+Edrproperties.title=Властивості діапазону даних
+Edrproperties.content="Зміна імен зовнішніх джерел даних, формату й макета."
 
-EditCloumns.title=Formula Bar
-EditCloumns.content="View the formula bar, in which you can enter text and formulas into cells."
-EditCloumns.img=EditCloumns
+Editcloumns.title=Рядок формул
+Editcloumns.content="Відображення рядка формул, призначеної для введення тексту й формул у комірки."
+Editcloumns.img=Editcloumns
 
-EditComment.title=Edit Comment
-EditComment.content=Edit the selected comment.
+Editcomment.title=Змінити примітку
+Editcomment.content=Зміна виділеного примітки.
 
-EditCrossBookLinks.title=Edit Links
-EditCrossBookLinks.content="In order to update data or delete links, view all the files that have been linked to this workbook."
+Editcrossbooklinks.title=Змінити посилання
+Editcrossbooklinks.content=" Для відновлення даних або видалення посилань необхідно переглянути всі файли, пов'язані з даною книгою."
 
-EditOleDBQuery.title=Edit OLE DB query
-EditOleDBQuery.content="Select the command type, input a relevent query statement and filter the data imported."
+Editoledbquery.title=Зміна запиту OLE DB
+Editoledbquery.content="Вибір типу команди, уведення відповідного запиту й відбір, отриманих даних."
 
-EditPoints.title=Edit Points
-EditPoints.content=Edit the wrap points to change the shape.
+Editpoints.title=Змінити вузли контуру
+Editpoints.content=Зміна вузлів контуру для зміни форми фігури.
 
-EditWordArtText.title=Edit Text
-EditWordArtText.content=Edit the text of the selected WordArt.
+Editwordarttext.title=Змінити фігурний текст
+Editwordarttext.content=Зміна виділеного фігурного тексту.
 
-EquationEditor.title=Insert Equation
-EquationEditor.content=Insert mathematical equations using equation editor.
-EquationEditor.img=ETEquationEditor
+Equationeditor.title=Вставити формулу
+Equationeditor.content=Використання редактора формул для додавання математичних формул.
+Equationeditor.img=Etequationeditor
 
-Eraseborder.title=Erase Border
-Eraseborder.content="To erase border, click this option and drag the mouse to erase.\n\nPress Esc on the keyboard or click this option again to exit the erasing mode."
+Eraseborder.title=Стерти границю
+Eraseborder.content="Щоб стерти границю, виберіть цю функцію й пересувайте покажчик миші.\n\nдля виходу з режиму стирання границі натисніть клавішу Esc на клавіатурі або повторно виберіть цю функцію."
 
-EvaluateFormula.title=Evaluate Formula
-EvaluateFormula.content=Show the Evaluate Formula dialog box to debug a formula by evaluating each part of the formula individually.
+Evaluateformula.title=Обчислити формулу
+Evaluateformula.content="Відкрити діалогове вікно \"Обчислити формулу\", призначене для налагодження формули шляхом обчислення кожного з її компонентів окремо."
 
-ExitPreview.title=Exit
-ExitPreview.content=Exit Print Preview and return to the document-editing mode.
+Exitpreview.title=Вихід
+Exitpreview.content=Вихід з режиму попереднього перегляду друку й повернення до режиму редагування документа.
 
-ExplorBackupDir.title=Explore File Safe
-ExplorBackupDir.content=View backup files and open or recover the backup files for a certain document.
+Explorbackupdir.title=Перегляд сховища файлів
+Explorbackupdir.content="Перегляд файлів резервних копій і відкриття, або відновлення файлів резервних копій певного документа."
 
-ExplorVersion.title=View Backup Histories
-ExplorVersion.content="View the backup record history of the current document to open, delete or restore the files."
+Explorversion.title=Перегляд записів резервного копіювання
+Explorversion.content="Перегляд записів резервного копіювання поточного документа для відкриття, видалення або відновлення файлів."
 
-FTB_EditCode.title=Edit Code
-FTB_EditCode.content=Start the visual basic editor to edit the selected form code.
+FTB_Editcode.title=Змінити код
+FTB_Editcode.content=Запуск редактора Visual Basic для зміни обраного коду форми.
 
-FTB_Property.title=Control Properties
-FTB_Property.content="Set the selected form object properties, such as font and size."
+FTB_Property.title=Властивості елемента
+FTB_Property.content="Вибір властивостей об'єкта для обраної форми, таких як, шрифт і розмір."
 
-Fill.title=Fill
-Fill.content="According to certain rules, you can fill the contents of a cell in any direction to adjacent cells."
+Fill.title=Заливання
+Fill.content="Заливання вмісту комірок у будь-якому напрямку згідно із заданими правилами."
 
-FillColor.title=Fill Color
-FillColor.content=Color the background of selected cells.\n\nClick the arrow to select a different background color.
+Fillcolor.title=Колір заливання
+Fillcolor.content=Зміна кольору тла виділених комірок.\n\nклацніть стрілку для вибору кольору заливання.
 
-FillColor2.title=Fill Color
-FillColor2.content=Click the arrow to select a different background color.
+Fillcolor2.title=Колір заливання
+Fillcolor2.content=Клацніть стрілку для вибору кольору тла.
 
-Financial.title=Financial
-Financial.content=Browse and select from a list of financial functions.
+Financial.title=Фінансові
+Financial.content=Перегляд і вибір зі списку фінансових функцій.
 
-Find.title=Find and Replace
-Find.content="Find text in the workbook.\n\nClick the arrow to choose other options, such as Go To."
+Find.title=Пошук і заміна
+Find.content="Пошук тексту в документі.\n\nклацніть стрілку для вибору інших функцій, таких як \"Перейти\"."
 
-FontColor.title=Text Color
-FontColor.content=Change the text color.\n\nClick the arrow to select a different text color.
+Fontcolor.title=Колір тексту
+Fontcolor.content=Зміна кольору тексту.\n\nклацніть стрілку для вибору кольору тексту.
 
-FontColor2.title=Text Color
-FontColor2.content=Click the arrow to select a different text color.
+Fontcolor2.title=Колір тексту
+Fontcolor2.content=Клацніть стрілку для вибору кольору тексту.
 
-FontFormatCells.title=Format Cells: Font
-FontFormatCells.content=Show the Font tab of the Format Cells dialog box.
-FontFormatCells.img=ETFontFormatCells
+Fontformatcells.title=Формат комірок: шрифт
+Fontformatcells.content=Показати вкладку \"Шрифт\" діалогового вікна \"Формат комірок\".
+Fontformatcells.img=Etfontformatcells
 
-FontName.title=Font
-FontName.content=Change the font face.
+Fontname.title=Шрифт
+Fontname.content=Зміна типу шрифту.
 
-FontSize.title=Font Size
-FontSize.content=Change the font size.
+Fontsize.title=Розмір шрифту
+Fontsize.content=Зміна розміру шрифту.
 
-FormatChartObject.title=Format Selection
-FormatChartObject.content=Show the Format dialog box of chart objects. You can use detailed settings for chart options.
+Formatchartobject.title=Форматування виділеного вмісту
+Formatchartobject.content=Запуск діалогового вікна \"Формат\" для об'єктів діаграми. Можна використовувати докладні параметри настроювання діаграми.
 
-FormatObject.title=Format Object
-FormatObject.content=Show the Format Object dialog box.
-FormatObject.img=ETFormatObject
+Formatobject.title=Форматування об'єкта
+Formatobject.content=Показати діалогове вікно \"Форматування об'єкта\".
+Formatobject.img=Etformatobject
 
-FormatPainter.title=Format Painter
-FormatPainter.content=Copy formatting from one place and apply it to another.\n\nDouble-click this button to apply the same formatting to multiple places in the document.
+Formatpainter.title=Формат за зразком
+Formatpainter.content="Копіювання форматування з одного місця й застосування його в іншому.\n\nдвічі клацніть цю кнопку, щоб застосувати те саме\nформатування до декількох частин документу."
 
-FormatStyle.title=Format Style
-FormatStyle.content="Make different combinations of the cell formats, such as number or alignment formats, then generate these formats into one."
+Formatstyle.title=Форматування об'єкта
+Formatstyle.content="Створення різних комбінацій форматів комірок, таких як, чисельний формат або формат вирівнювання, і потім їх перетворення в об’єднаний формат."
 
-FreezePanes.title=Freeze/Unfreeze Panes
-FreezePanes.content=Keep a portion of the sheet visible while the rest of the sheet scrolls. (You can cancel the lock to scroll through the whole worksheet).
+Freezepanes.title=Закріплення області
+Freezepanes.content="Закріплення на екрані частини аркуша при прокручуванні іншої його частини\n\n(можна скасувати блокування для прокручування всього аркуша)."
 
-FullScreenMode.title=Full Screen
-FullScreenMode.content=View the workbook in full screen mode
+Fullscreenmode.title=Повноекранний режим
+Fullscreenmode.content=Перегляд документа в повноекранному режимі.
 
-FuncCatDateAndTime.title=Date & Time
-FuncCatDateAndTime.content=Browse and select from a list of date and time functions.
+Funccatdateandtime.title=Дата й час
+Funccatdateandtime.content=Перегляд і вибір зі списку функцій дати й часу.
 
-FuncCatMoreFunctions.title=More Functions
-FuncCatMoreFunctions.content="Browse and select from lists of statistical, engineering, and information functions."
+Funccatmorefunctions.title=Інші функції
+Funccatmorefunctions.content="Перегляд списку статистичних, інженерних і інформаційних функцій."
 
-FuncCatText.title=Text Function
-FuncCatText.content=Browse and select from a list of text functions.
+Funccattext.title=Текстові функції
+Funccattext.content=Перегляд і вибір зі списку текстових функцій.
 
-Gallery.title=WPS Office Gallery
-Gallery.content="WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.\n\nWPS Gallery Online Sources require Internet connection."
+Gallery.title=Колекція WPS Office
+Gallery.content="У колекції WPS Office поміщені зображення для подальшого використання, збереження або зміни.\n\ nінтернет-колекцію, включену в колекцію WPS Office, можна використовувати при підключенні до Інтернету."
 
-Group.title=Group
-Group.content=Group objects together so that they can be treated like a single object.
+Group.title=Групувати
+Group.content="Групування об'єктів таким чином, щоб надалі їх можна було обробляти як один об'єкт."
 
-GrowFont.title=Increase Font Size
-GrowFont.content=Increase the font size.
+Growfont.title=Побільшати розмір шрифту
+Growfont.content=Збільшення розміру шрифту.
 
-HeaderFooter.title=Header and Footer
-HeaderFooter.content=Edit the header and footer of the document.\n\nThe information in the header or footer will appear at the top or bottom of each printed page.
-HeaderFooter.img=ETHeaderFooter
+Headerfooter.title=Колонтитули
+Headerfooter.content=Зміна колонтитулів документа.\n\nзміст колонтитулів буде відображатися вгорі або внизу кожної надрукованої сторінки.
+Headerfooter.img=Etheaderfooter
 
-HideDetail.title=Hide Detail
-HideDetail.content=Collapse a group of cells.
+Hidedetail.title=Сховати деталі
+Hidedetail.content=Згортання групи комірок.
 
-HomeDetailedSettings.title=HomeDetailedSettings Title
-HomeDetailedSettings.content=HomeDetailedSettings Content
+Homedetailedsettings.title=Homedetailedsettings Title
+Homedetailedsettings.content=Homedetailedsettings Content
 
-Hyperlink.title=Insert Hyperlink
-Hyperlink.content="Create a link to a web page, a picture, or an e-mail address."
+Hyperlink.title=Вставити гіперпосилання
+Hyperlink.content="Створення посилання на веб-сторінку, зображення або адресу електронної пошти."
 
-ImportData.title=Import data
-ImportData.content=Import external data into the selected worksheet.
+Importdata.title=Імпортувати дані
+Importdata.content=Імпорт зовнішніх даних у виділену таблицю.
 
-IncreaseDecimal.title=Increase Decimal
-IncreaseDecimal.content=Show more precise values by showing more decimal places.
+Increasedecimal.title=Побільшати розрядність
+Increasedecimal.content="Показати більш точні значення, за рахунок відображення більшого числа десяткових знаків."
 
-IncreaseIndent.title=Increase Indent
-IncreaseIndent.content=Increase the margin between the border and the text in the cell.
+Increaseindent.title=Побільшати відступ
+Increaseindent.content=Збільшення поля між границею й текстом комірки.
 
-InsertClipArt.title=Insert ClipArt
-InsertClipArt.content=Insert ClipArt Content
+Insertclipart.title=Вставити кліп
+Insertclipart.content=Вставити вміст кліпу.
 
-InsertComment.title=New Comment
-InsertComment.content=Add a comment to the worksheet about the selection.
+Insertcomment.title=Створити примітка
+Insertcomment.content=Додавання примітки до виділеного фрагмента.
 
-InsertFileObject.title=Insert Object from File
-InsertFileObject.content=Insert the selected file into document.
+Insertfileobject.title=Вставити об'єкт із файлу
+Insertfileobject.content=Додавання обраного файлу в документ.
 
-InsertFunction.title=Insert Function
-InsertFunction.content=Edit the formula in the current cell by choosing functions and editing the arguments.
+Insertfunction.title=Вставити функцію
+Insertfunction.content=Зміна формули в поточному гнізді вибором функцій і редагуванням аргументів.
 
-InsertObject.title=Insert Object
-InsertObject.content=Show the Insert Object dialog box to select new file or file from local folder.
+Insertobject.title=Вставити об'єкт
+Insertobject.content=Показати діалогове вікно \"Вставити об'єкт\" для вибору нового файлу або файлу з локальної папки.
 
-InsertPageBreak.title=Page Breaks
-InsertPageBreak.content=Specify where a new page will begin in the printed copy.\n\nPage breaks are inserted above and to the left of the selection.
+Insertpagebreak.title=Розрив сторінки
+Insertpagebreak.content="Вказівка місця, з якого починається нова сторінка друкованого документа.\n\nрозриви сторінок вставляються над виділеним фрагментом і ліворуч від нього."
 
-InsertPictureFromFile.title=Insert Picture
-InsertPictureFromFile.content=Insert a picture from local folder.
+Insertpicturefromfile.title=Вставити зображення
+Insertpicturefromfile.content=Додавання зображення з файлу.
 
-InsertRange.title=Insert Cells
-InsertRange.content="Insert cells, rows or columns into the worksheet."
+Insertrange.title=Вставити комірки
+Insertrange.content="Додавання комірок, рядків або стовпців у таблицю."
 
-InsertRange2.title=Insert Cells
-InsertRange2.content="Click here to insert cells, rows or columns in the worksheet or add a whole new worksheet."
+Insertrange2.title=Вставити комірки
+Insertrange2.content="Клацніть тут для додавання комірок, рядків або стовпців аркуша або додавання нового аркуша."
 
-InsertSymbol.title=Insert Symbol
-InsertSymbol.content="Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols."
+Insertsymbol.title=Вставити символ
+Insertsymbol.content="Вставка символів, відсутніх на клавіатурі, наприклад символів авторського права й товарного знака."
 
-InsertTextboxHorizontal.title=Draw Horizontal Text Box
-InsertTextboxHorizontal.content=Insert a horizontal text box.
+Inserttextboxhorizontal.title=Намалювати горизонтальне текстове поле
+Inserttextboxhorizontal.content=Додавання горизонтального текстового поля в документ.
 
-InsertTextboxHorizontal2.title=Draw Text Box
-InsertTextboxHorizontal2.content=Click here to insert either horizontal or vertical text.
+Inserttextboxhorizontal2.title=Намалювати текстове поле
+Inserttextboxhorizontal2.content=Додавання горизонтального або вертикального текстового поля в документ.
 
-InsertWordArt.title=Insert WordArt
-InsertWordArt.content=Show the WordArt Gallery dialog box to select a WordArt style and edit content.
+Insertwordart.title=Вставити фігурний текст 
+Insertwordart.content=Показати діалогове вікно \"Колекція\" для вибору стилю фігурного тексту і його зміни.
 
-Italic.title=Italic
-Italic.content=Italicize the selected text.
+Italic.title=Курсив
+Italic.content=Виділення тексту курсивом.
 
-KOSCloudFeedbackTip.title=User Feedback
-KOSCloudFeedbackTip.content=Help us to improve WPS Office.
+Koscloudfeedbacktip.title=Відкликання й пропозиції
+Koscloudfeedbacktip.content=Допоможіть нам поліпшити WPS Office.
 
-KOSCloudInformationTip.title=User Guide
-KOSCloudInformationTip.content=How to use Office Space.
+Koscloudinformationtip.title= Посібник користувача
+Koscloudinformationtip.content= Посібник з використання простору офісу.
 
-KOSCreatecloudLinkTip.title=Just ten seconds! You can:
-KOSCreatecloudLinkTip.content=Scan the QR code and share your document to cellphone, to WeChat or MiChat for editing by others.
+Koscreatecloudlinktip.title= За 10 секунд ви можете:
+Koscreatecloudlinktip.content="Просканувати QR код і одержати доступ до документа через телефон, Wechat або Michat для редагування."
 
-KOSOfficespaceLoginFailTip.title=@@
-KOSOfficespaceLoginFailTip.content=UserName or password not match
+Kosofficespaceloginfailtip.title=@@
+Kosofficespaceloginfailtip.content=Невірне ім'я користувача або пароль.
 
-KOSOfficespacePsaawordTip.title=@@
-KOSOfficespacePsaawordTip.content=Password is wrong
+Kosofficespacepsaawordtip.title=@@
+Kosofficespacepsaawordtip.content=Невірний пароль.
 
-KOSOfficespaceRegPsaawordTip.title=@@
-KOSOfficespaceRegPsaawordTip.content=Password not match
+Kosofficespaceregpsaawordtip.title=@@
+Kosofficespaceregpsaawordtip.content=Паролі не збігаються.
 
-KOSOpenCloudFileTip.title=Open from Cloud Docs
-KOSOpenCloudFileTip.content=Modifications of documents in Cloud Docs will be directly saved.
+Kosopencloudfiletip.title=Відкрити з Cloud Docs
+Kosopencloudfiletip.content="Зміни, внесені в документи в Cloud Docs, будуть негайно збережені."
 
-KOSRoamingfileTip.title=File Roaming
-KOSRoamingfileTip.content="Files opened will be automatically roamed to the cloud and all your devices.\n\nYou can start work at anytime and anywhere."
+Kosroamingfiletip.title=Роумінг файлів
+Kosroamingfiletip.content=Відкриті файли будуть автоматично переміщені в Cloud Docs і будуть доступні на всіх ваших обладнаннях.\n\nви зможете почати роботу в будь-який час і в будь-якому місці.
 
-KOSSaveFileTocloudTip.title=Save to Cloud Docs
-KOSSaveFileTocloudTip.content=Share with others for discussing, editing, and previewing documents online.
+Kossavefiletocloudtip.title=Зберегти в Cloud Docs
+Kossavefiletocloudtip.content="Зберегти файл у хмарному сервісі. Дозволяє працювати з одним документом з декількох обладнань."
 
-KOSUserLoginCloudTextBtnTip.title=Sign In
-KOSUserLoginCloudTextBtnTip.content=Sign in WPS Office Cloud and upload your documents. You can edit the same document on other computers or cellphones and never lose it.
+Kosuserlogincloudtextbtntip.title=Увійти
+Kosuserlogincloudtextbtntip.content="Увійти, щоб користуватися безкоштовними послугами хмарного сервісу, такими як, документи з Інтернету, резервне зберігання файлів, шаблони з Інтернету й бібліотека ресурсів."
 
-KOSUserLoginCloudTip.title=KOSUserLoginCloudTip Title
-KOSUserLoginCloudTip.content=KOSUserLoginCloudTip Content
+Kosuserlogincloudtip.title=Kosuserlogincloudtip Title
+Kosuserlogincloudtip.content=Kosuserlogincloudtip Content
 
-KOSUserLogoutCloudTip.title=Signed in
-KOSUserLogoutCloudTip.content=You have signed in WPS Office Cloud. Click to exit.
+Kosuserlogoutcloudtip.title=Вхід виконаний
+Kosuserlogoutcloudtip.content=Ви ввійшли в хмарний сервіс WPS Office. Клацніть тут для виходу.
 
-LeftBorder.title=Left Border
-LeftBorder.content=Apply borders to the currently selected cells.
+Leftborder.title=Ліва границя
+Leftborder.content=Додавання лівої границі до виділених комірок.
 
-Legend.title=Legend
-Legend.content=Show or hide the chart legend.
+Legend.title= Умовні позначки
+Legend.content=Показати або сховати умовні позначки діаграми.
 
-Lighting.title=Lighting
-Lighting.content="Set the lighting direction and intensity for the selected 3-D shape. The latter includes bright, normal and dim."
+Lighting.title=Кут висвітлення
+Lighting.content="Вибір для виділеної форми 3-d напрямку й сили висвітлення, включаючи, яскраве, нормальне й тьмяне."
 
-LoadMacro.title=Add-Ins
-LoadMacro.content=Manage the Add-Ins available for use with this file.
+Loadmacro.title=Надбудови
+Loadmacro.content="Керування надбудовами, доступними для використання із цим файлом."
 
-LockCell.title=Lock Cell
-LockCell.content="If the worksheet is protected, the Lock Cell feature can protect data from being modified."
+Lockcell.title=Блокувати комірку
+Lockcell.content=" При включеному захисті аркуша, функція \"Блокувати комірку\" може захистити дані від змін."
 
-Logical.title=Logical
-Logical.content=Browse and select from a list of logical functions.
+Logical.title=Логічні
+Logical.content=Перегляд і вибір зі списку логічних функцій.
 
-LookupAndReference.title=Lookup & Reference
-LookupAndReference.content=Browse and select from a list of lookup and reference functions.
+Lookupandreference.title=Посилання й масиви
+Lookupandreference.content=Перегляд і вибір зі списку функцій пошуку й функцій для роботи з посиланнями.
 
-Macros.title=View Macros
-Macros.content="View the list of macros, from which you can run, create, or delete a macro."
+Macros.title=Перегляд макросів
+Macros.content="Перегляд списку макросів, у якому можна створити або вилучити макрос."
 
-Margins.title=Margins
-Margins.content=Select the margin sizes for the entire document or the current section.
+Margins.title=Поля
+Margins.content=Вибір розмірів полів для всього документа або поточного розділу.
 
-MarkVersion.title=Manual Backup
-MarkVersion.content="Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file."
+Markversion.title=Резервне копіювання вручну
+Markversion.content="Не закриваючи файл, можна створити резервну копію поточного файлу в сховище файлів, і додати примітки до файлу резервної копії."
 
-MathAndTrig.title=Math & Trig
-MathAndTrig.content=Browse and select from a list of math and trigonometry functions.
+Mathandtrig.title=Математичні
+Mathandtrig.content=Перегляд і вибір зі списку математичних функцій.
 
-Max.title=Max
-Max.content=Returns the largest value in a set of values.
+Max.title=Максимум
+Max.content=Визначення найбільшого з набору значень.
 
-MergeCenter.title=Merge and Center
-MergeCenter.content=Join the selected cells into one larger cell and centers the contents in the new cell.
-MergeCenter.img=ETMergeCenter
+Mergecenter.title=Об'єднати й вирівняти по центру
+Mergecenter.content=Об'єднання виділених комірок в одне більше комірку й вирівнювання вмісту нового комірки по центру.
+Mergecenter.img=Etmergecenter
 
-MergeCenter2.title=Merge and Center
-MergeCenter2.content=Join the selected cells into one larger cell and centers the contents in the new cell.
+Mergecenter2.title=Об'єднати й вирівняти по центру
+Mergecenter2.content=Об'єднання виділених комірок в одну більшу комірку й вирівнювання вмісту нового комірки по центру.
 
-MergeColumns.title=Merge Across
-MergeColumns.content=Select and merge cells across one or multiple rows.
+Mergecolumns.title=Об'єднати по рядках
+Mergecolumns.content=Виділити й об'єднати комірки по одній або декільком рядкам.
 
-MergeSelection.title=Merge Cells
-MergeSelection.content=Merge the selected cells into one cell.
+Mergeselection.title=Об'єднання комірок
+Mergeselection.content=Об'єднати виділені комірки в одну комірку.
 
-Min.title=Min
-Min.content=Returns the smallest number in a set of values.
+Min.title=Мінімум
+Min.content=Визначення найменшого з набору значень.
 
-ModifyPivotTable.title=Modify PivotTable
-ModifyPivotTable.content=Change PivotTable data source and reset its display location.
+Modifypivottable.title=Змінити зведену таблицю
+Modifypivottable.content="Зміна джерела даних зведеної таблиці, і відновлення вихідних параметрів відображення таблиці."
 
-Morefunctions.title=More Functions
-Morefunctions.content="Browse and select from lists of statistical, engineering, cube, and information functions."
+Morefunctions.title=Інші функції
+Morefunctions.content="Перегляд і вибір зі списку статистичних, інженерних і інформаційних функцій."
 
-NameCreate.title=Create Names
-NameCreate.content=Automatically generate names from the selected cells.\n\nMany people choose to use the text in the top row or the leftmost column of a selection.
+Namecreate.title=Створити з виділеного
+Namecreate.content=Автоматичне створення імен для виділених комірок.\n\nбільшість користувачів воліє використовувати текст у верхньому рядку крайнього лівого стовпця виділення.
 
-NameDefine.title=Define Name
-NameDefine.content="Name cells so that you can refer to them in formulas by that name.\n\nFor example, select the cells A1:A10, and name this cell range \"test\". \n\nNames can be used in formulas to make them easier to understand."
+Namedefine.title=Привласнити ім'я
+Namedefine.content="Присвоєння імен окремим гніздам і діапазонам комірок. Надалі можна буде посилатися на них у формулах по даному імені.\n\nнаприклад, діапазону комірок A1:A10 можна привласнити ім'я \"перевірка\".\n\nвикористання імен у формулах робить формули більш зрозумілими."
 
-NameManager.title=Name Manager
-NameManager.content="Create, edit, delete, and find all the names used in the workbook\n\nNames can be used in formulas as substitutes for cell references.\n\nFor example: =SUM(MySales) instead of =SUM(A1:A20)."
+Namemanager.title=Диспетчер імен
+Namemanager.content="Створення, зміна, видалення, а також пошук усіх імен, використовуваних у книзі.\n\nімена можна використовувати у формулах замість посилань на комірки.\n\nнаприклад: \"=СУМ(Моїпродажі)\" замість \"=СУМ(A1:A20)\"."
 
-NamePaste.title=Paste Name
-NamePaste.content=Select a name that is being used in the current workbook and paste it into the current formula.
+Namepaste.title=Додавання імені
+Namepaste.content="Виділення імені, використовуваного в поточній книзі, і вставка його в поточну формулу."
 
-NewWindow.title=New Window
-NewWindow.content=Open a new window containing a view of the current worksheet.
+Newwindow.title=Нове вікно
+Newwindow.content=Відкриття нового вікна з виставою поточного документа.
 
-NoBorder.title=No Border
-NoBorder.content=Apply borders to the currently selected cells.
+Noborder.title= Без границі
+Noborder.content=Видалення границь комірки.
 
-NormalViewEt.title=Normal View
-NormalViewEt.content=View the worksheet in Normal view.
+Normalviewet.title=Звичайний режим
+Normalviewet.content=Перегляд документа у звичайному режимі.
 
-NudgeShadowDown.title=Nudge Shadow Down
-NudgeShadowDown.content=Move the shadow of the selected object down.
+Nudgeshadowdown.title=Зрушити тінь униз
+Nudgeshadowdown.content=Переміщення тіні обраного об'єкта вниз.
 
-NudgeShadowLeft.title=Nudge Shadow Left
-NudgeShadowLeft.content=Move the shadow of the selected object to the left.
+Nudgeshadowleft.title=Зрушити тінь уліво
+Nudgeshadowleft.content=Переміщення тіні обраного об'єкта вліво.
 
-NudgeShadowRight.title=Nudge Shadow Right
-NudgeShadowRight.content=Move the shadow of the selected object to the right.
+Nudgeshadowright.title=Зрушити тінь вправо
+Nudgeshadowright.content=Переміщення тіні обраного об'єкта вправо.
 
-NudgeShadowUp.title=Nudge Shadow Up
-NudgeShadowUp.content=Move the shadow of the selected object up.
+Nudgeshadowup.title=Зрушити тінь нагору
+Nudgeshadowup.content=Переміщення тіні обраного об'єкта нагору.
 
-NumberFormatCells.title=Format Cells: Number
-NumberFormatCells.content=Show the Number tab of the Format Cells dialog box.
-NumberFormatCells.img=ETNumberFormatCells
+Numberformatcells.title=Формат комірок: числовий
+Numberformatcells.content=Відображення вкладки \"Числовий\" діалогового вікна \"Формат комірок\".
+Numberformatcells.img=Etnumberformatcells
 
-ObjectSelect.title=Selection Pane
-ObjectSelect.content=Show the Selection Pane task window to easily find a single object or set its order and visibility.
-ObjectSelect.img=ETObjectSelect
+Objectselect.title=Область виділення
+Objectselect.content="Відображення області виділення, яка дозволяє виділити окремі об'єкти, змінити їхнє розташування, а також показати або сховати їх."
+Objectselect.img=Etobjectselect
 
-OtherBorders.title=Other Borders
-OtherBorders.content=You can use detailed settings to select cell borders.
+Otherborders.title=Інші границі
+Otherborders.content=Використання докладних параметрів для вибору границь комірок.
 
-OutlineSettings.title=Outline Settings
-OutlineSettings.content=Show the Outline dialog box.
+Outlinesettings.title=Настроювання структури
+Outlinesettings.content=Відкрити діалогове вікно \"Структура\".
 
-OutsideBorders.title=Outside Borders
-OutsideBorders.content=Apply borders to the currently selected cells.
+Outsideborders.title=Зовнішні границі
+Outsideborders.content=Показати зовнішні границі для виділених комірок.
 
-PTFieldSettings.title=Field Settings
-PTFieldSettings.content=Show the Field Settings dialog box.
+Ptfieldsettings.title=Параметри поля
+Ptfieldsettings.content=Відкрити діалогове вікно \"Параметри поля\".
 
-PTHide.title=Hide
-PTHide.content="Hide the PivotTable fields in page, row, column area or items in the fields."
+Pthide.title=Сховати
+Pthide.content="Відображення або приховання списку полів.\n\nсписок полів дозволяє додавати й видаляти поля зі звіту зведеної таблиці."
 
-PTHideDetail.title=Hide Detail
-PTHideDetail.content=Hide all items of the active field.
+Pthidedetail.title=Сховати деталі
+Pthidedetail.content=Сховати всі елементи активного поля.
 
-PTHideFieldList.title=Hide Field List
-PTHideFieldList.content=Show or hide the field list.\n\nThe field list allows you to add and remove fields.
+Pthidefieldlist.title=Сховати список полів
+Pthidefieldlist.content=Показати або сховати список полів.\n\nсписок полів дозволяє додавати й видаляти поля зі звіту зведеної таблиці.
 
-PTRefreshData.title=Refresh Data
-PTRefreshData.content=Update the information from the data source in the workbook.
+Ptrefreshdata.title=Обновити дані
+Ptrefreshdata.content=Відновлення інформації із джерела даних у книзі.
 
-PTShowDetail.title=Show Detail
-PTShowDetail.content=Show all items of the active field.
+Ptshowdetail.title=Показати деталі
+Ptshowdetail.content=Розгортання згорнутої групи комірок.
 
-PTSortAndTopTen.title=Sort
-PTSortAndTopTen.content=Set the auto sort option of the PivotTable field.
+Ptsortandtopten.title=Сортування
+Ptsortandtopten.content=Установка режиму автоматичного сортування поля зведеної таблиці.
 
-PTSubtotals.title=Subtotals
-PTSubtotals.content=Show or hide subtotals.
+Ptsubtotals.title=Підсумки
+Ptsubtotals.content=Відображення або приховання проміжних підсумків.
 
-PTTableOptions.title=PivotTable Options
-PTTableOptions.content=Show the PivotTable Options dialog box.
+Pttableoptions.title=Параметри зведеної таблиці
+Pttableoptions.content=Відкриття діалогового вікна \"Параметри зведеної таблиці\".
 
-PageBreakPreview.title=Page Break Preview
-PageBreakPreview.content=View a preview of where pages will break when this workbook is printed.
+Pagebreakpreview.title=Сторінковий режим
+Pagebreakpreview.content="Попередній перегляд розривів сторінок перед печаткою документа."
 
-PageLayoutDetailedSettings.title=PageLayoutDetailedSettings Title
-PageLayoutDetailedSettings.content=PageLayoutDetailedSettings Content
+Pagelayoutdetailedsettings.title=Pagelayoutdetailedsettings Title
+Pagelayoutdetailedsettings.content=Pagelayoutdetailedsettings Content
 
-PageOrientation.title=Page Orientation
-PageOrientation.content=Switch the pages between portrait and landscape layouts.
+Pageorientation.title=Орієнтація тексту
+Pageorientation.content=Вибір книжкової або альбомної орієнтації сторінок.
 
-PageSetup.title=Page Setup
-PageSetup.content=Show the page setup dialog box.
-PageSetup.img=ETPageSetup
+Pagesetup.title=Параметри сторінки
+Pagesetup.content=Відкрити діалогове вікно \"Параметри сторінки\".
+Pagesetup.img=Etpagesetup
 
-PageSize.title=Page Size
-PageSize.content="Select a paper size for the current section.\n\nTo apply a specific paper size to all sections in the document, click to customize paper size."
+Pagesize.title=Розмір сторінки
+Pagesize.content="Вибір розміру паперу для поточного розділу.\n\nклацніть тут, для застосування певного розміру паперу до всіх розділів у документі."
 
-PageZoom.title=Page Zoom
-PageZoom.content="Scale the width or height of the printed output to fit a maximum number of pages, or to a percentage of its actual size."
+Pagezoom.title=Масштаб сторінки
+Pagezoom.content="Збільшення або зменшення ширини або висоти висновку на печатку з розрахунками на певне число сторінок або у відсотках від фактичного розміру."
 
-PercentStyle.title=Percent Style
-PercentStyle.content=Display the value of the cell as a percentage.
+Percentstyle.title=Процентний формат
+Percentstyle.content=Відображення значення комірки у вигляді відсотків.
 
-PictureAdjust.title=Adjust Picture
-PictureAdjust.content=Increase or decrease the contrast and brightness of the selected picture.
+Pictureadjust.title=Настроїти зображення
+Pictureadjust.content=Збільшення або зменшення контрастності і яскравості обраного зображення.
 
-PictureColor.title=Color
-PictureColor.content="Change the color of the selected picture to give it a black and white, washout or transparent color."
+Picturecolor.title=Перефарбувати
+Picturecolor.content="Зміна кольору зображання на чорно-білий, розмитий або прозорий колір."
 
-PictureCrop.title=Crop
-PictureCrop.content=Crop the picture to remove any unwanted parts.
+Picturecrop.title=Обрізати зображення
+Picturecrop.content=Обрізка зображення з метою видалення непотрібних фрагментів.
 
-PictureFillColor.title=Picture Fill
-PictureFillColor.content="Fill the selected object with a color, gradient, pattern and picture.\n\nClick the arrow to select different fill effects."
+Picturefillcolor.title=Заливання зображення
+Picturefillcolor.content="Заливання виділеного об'єкта кольором, градієнтом, візерунком або зображенням.\n\nклацніть стрілку для вибору режиму заливання."
 
-PictureFillColor2.title=Picture Fill
-PictureFillColor2.content=Click the arrow to select different fill modes.
+Picturefillcolor2.title=Заливання зображення
+Picturefillcolor2.content=Клацніть стрілку для вибору режиму заливання.
 
-PictureLineColor.title=Picture Outline
-PictureLineColor.content="Set picture outline color,outline width and outline style for the selected object.\n\nClick the arrow to select detailed settings for the outline."
+Picturelinecolor.title=Контур зображення
+Picturelinecolor.content="Вибір кольору, ширини план і стилю контуру виділеного об'єкта.\n\nклацніть стрілку для вибору докладних параметрів контуру."
+ 
+Picturelinecolor2.title=Контур зображення
+Picturelinecolor2.content=Клацніть стрілку для вибору докладних параметрів контуру.
 
-PictureLineColor2.title=Picture Outline
-PictureLineColor2.content=Click the arrow to select detailed settings for the outline.
+Picturesettransparentcolor.title=Прозорий колір
+Picturesettransparentcolor.content="Додання прозорості кольору поточного малюнка.\n\nпри клацанні пікселя на поточному малюнку всі пікселі відповідного кольору стають прозорими."
 
-PictureSetTransparentColor.title=Set Transparent Color
-PictureSetTransparentColor.content="Make a color in the current picture transparent.\n\nWhen you click a pixel in the current graphic, all pixels of that specific color become transparent."
+Picturesize.title=Розмір зображення
+Picturesize.content="Зміна розміру, кута повороту й масштабу виділеної фігури."
 
-PictureSize.title=Picture Size
-PictureSize.content="Change the size, rotation degree and zoom scale of the selected shape."
+Picturetoolsdetailedsettings.title=Picturetoolsdetailedsettings Title
+Picturetoolsdetailedsettings.content=Picturetoolsdetailedsettings Content
 
-PictureToolsDetailedSettings.title=PictureToolsDetailedSettings Title
-PictureToolsDetailedSettings.content=PictureToolsDetailedSettings Content
+Pivottable.title=Вставити зведену таблицю
+Pivottable.content="Клацніть тут, щоб виконати відомість даних за допомогою зведеної таблиці.\n\nзведені таблиці спрощують вистава, відомість і деталізацію складних даних."
 
-PivotTable.title=Insert PivotTable
-PivotTable.content=Click here to summarize data using a PivotTable.\n\nPivotTable make it easy to arrange and summarize complicated data and drill down on details.
+Pivottabledelete.title=Вилучити зведену таблицю
+Pivottabledelete.content=Видалення виділеної зведеної таблиці.
 
-PivotTableDelete.title=Delete PivotTable
-PivotTableDelete.content=Delete the currently selected PivotTable.
+Pivottableorder.title=Розташування
+Pivottableorder.content=Переміщення області рядків або стовпців зведеної таблиці нагору або вниз.
 
-PivotTableOrder.title=Order
-PivotTableOrder.content=Move the row or column area of a PivotTable to the top or bottom.
+Prevlandscape.title=Альбомна
+Prevlandscape.content=Установка альбомної орієнтації сторінок.
 
-PrevLandscape.title=Landscape
-PrevLandscape.content=Set the worksheet pages to landscape.
+Prevnextpage.title=Наступна сторінка
+Prevnextpage.content= Перехід до наступної сторінки при печатці поточного аркуша.
 
-PrevNextPage.title=Next Page
-PrevNextPage.content=Move to the next print page of the current worksheet.
+Prevportrait.title=Книжкова
+Prevportrait.content=Установка книжкової орієнтації сторінок.
 
-PrevPortrait.title=Portrait
-PrevPortrait.content=Set the worksheet pages to portrait.
+Prevpreviouspage.title=Попередня сторінка
+Prevpreviouspage.content= Перехід до друку попередній сторінці при печатці поточного аркуша.
 
-PrevPreviousPage.title=Previous Page
-PrevPreviousPage.content=Move to the previous print page of the current worksheet.
+Print.title=Печатка
+Print.content="Застосування докладних параметрів для друку, таких як принтер, число сторінок, що друкуються, число екземплярів, кількість сторінок на аркуші й масштаб."
 
-Print.title=Print
-Print.content="Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom."
+Print2.title=Печатка
+Print2.content="Клацніть тут, щоб установити параметри друку або використовувати заздалегідь задані настроювання друку."
 
-Print2.title=Print
-Print2.content="Click here to set details of printing, or use default settings to print directly."
+Printarea.title=Діапазон друку
+Printarea.content="Виділення певної області аркуша для друку."
 
-PrintArea.title=Print Area
-PrintArea.content="To select a specific area of sheet for printing, rather than completely printed, the print results can be viewed in Print Preview."
+Printdirect.title=Печатка на принтер
+Printdirect.content=Відправлення документа на використовуваний за замовчуванням принтер без внесення змін.
 
-PrintDirect.title=Print Directly
-PrintDirect.content=Send the document directly to the default printer without making changes.
+Printgridlines.title=Печатка сітки
+Printgridlines.content=Печатка ліній сітки між стовпцями й рядками аркуша.
 
-PrintGridlines.title=Print Gridlines
-PrintGridlines.content=Print the gridlines between the columns and the rows in the worksheet.
+Printheadings.title=Печатка заголовків
+Printheadings.content="Печатка заголовків рядків і стовпців.\n\nзаголовки рядків - це номера рядків у лівій або правій частині аркуша.\n\nзаголовки стовпців - це букви або цифри, які відображаються над стовпцями аркуша."
 
-PrintHeadings.title=Print Headings
-PrintHeadings.content=Print row and column headings.\n\nRow headings are the row numbers to the side of the sheet.\n\nColumn headings are the letters or numbers that appear above the columns on a sheet.
+Printlayout.title=Розмітка сторінки
+Printlayout.content="Перегляд документа в тому виді, у якому він буде надрукований."
 
-PrintLayout.title=Page Layout
-PrintLayout.content=View the workbook as it will appear on the printed page.
+Printnormalview.title=Звичайний вид
+Printnormalview.content="Вихід з режиму \"Попереднього перегляду\", і вхід у режим звичайного виду."
 
-PrintNormalView.title=Normal View
-PrintNormalView.content=Exit print preview and then enter the normal view.
+Printpreview.title=Попередній перегляд
+Printpreview.content=Попередній перегляд і внесення змін у сторінки перед печаткою.
 
-PrintPreview.title=Print Preview
-PrintPreview.content=Preview and make changes to pages before printing.
+Printpreviewmargins.title=Поля
+Printpreviewmargins.content=Вибір відстані між змістом аркуша й краєм друкованої сторінки.
 
-PrintPreviewMargins.title=Margins
-PrintPreviewMargins.content=Specify the distance between the content of the worksheet and the edge of the printed page.
+Printpreviewzoomcombo.title=Масштаб
+Printpreviewzoomcombo.content=Вибір рівня масштабування поточного документа.
 
-PrintPreviewZoomCombo.title=Zoom
-PrintPreviewZoomCombo.content=Select the zoom size of the current worksheet.
+Printtitle.title=Друкувати на кожній сторінці
+Printtitle.content="Вибір рядків і стовпців, які будуть повторені на кожній друкованій сторінці."
 
-PrintTitle.title=Print Titles
-PrintTitle.content=Specify rows and columns to repeat on each printed page.
+Protectandshare.title=Захист книги й загальний доступ
+Protectandshare.content=Відкриття загального доступу до книги з одночасним захистом цієї книги паролем.\n\nпароль не дозволить іншим користувачам відключити облік змін.
 
-ProtectAndShare.title=Protect and Share Workbook
-ProtectAndShare.content=Share the workbook and protect it with a password at the same time.\n\nThe password will prevent others from turning off change tracking.
+Protectsheet.title=Захист аркуша
+Protectsheet.content="Заборона на внесення небажаних змін у дані аркуша із вказівкою, які відомості можуть бути змінені.\n\nнаприклад, можна заборонити користувачам редагувати заблоковані комірки або змінювати форматування документа.\n\nможно вказати пароль, який повинен бути введений, щоб зняти захист аркуша й дозволити ці зміни."
 
-ProtectSheet.title=Protect Sheet
-ProtectSheet.content="Prevent unwanted changes to the data in a sheet by specifying what information can be changed.\n\nFor example, you can prevent people from editing locked cells or changing the formatting of the document.\n\nYou can specify a password that can be entered to unprotect the sheet and allow these changes."
+RB_Clipboard.title=Буфер обміну
+RB_Clipboard.content="Перегляд елементів, що копіюються у буфер обміну."
+RB_Clipboard.img=Etclipboard
 
-RB_Clipboard.title=Clipboard
-RB_Clipboard.content=Check for the items that are copied to the Clipboard.
-RB_Clipboard.img=ETClipboard
+Readinglayout.title=Макет для читання
+Readinglayout.content=Перегляд заголовків рядків і стовпців виділеного комірки.
 
-ReadingLayout.title=Reading Layout
-ReadingLayout.content=Convenient to check related data which are in the same row or column with the current cell.\n\nClick the arrow to pick a different color.
+Readinglayout2.title=Макет для читання
+Readinglayout2.content=Клацніть стрілку для вибору кольору.
 
-ReadingLayout2.title=Reading Layout
-ReadingLayout2.content=Click the arrow to pick a different color.
+Reapplyfilter.title=Застосувати повторно
+Reapplyfilter.content=Повторне застосування фільтра й сортування до поточного діапазону.\n\nпри додаванні або зміні даних у стовпці фільтрація й сортування нових даних виконується тільки після натискання кнопки \"Застосувати повторно\".
 
-ReapplyFilter.title=Reapply
-ReapplyFilter.content=Reapply the filter and sort in the current range.\n\nNew or modified data in the column will not be filtered or sorted until you click Reapply.
+Recalculatebook.title=Перерахувати книгу
+Recalculatebook.content="Перерахування всієї книги.\n\nце необхідно тільки в тому випадку, якщо автоматичне виконання обчислень відключене."
 
-RecalculateBook.title=Recalculate Workbook
-RecalculateBook.content=Calculate the entire workbook now.\n\nThis is only necessary if automatic calculation has been turned off.
+Recentlinewrap.title=Перенос за словами
+Recentlinewrap.content=Відображення всього вмісту комірки на декількох рядках.
+Recentlinewrap.img=Etrecentlinewrap
 
-RecentLineWrap.title=Wrap Text
-RecentLineWrap.content=Make all content visible within a cell by displaying it on multiple lines.
-RecentLineWrap.img=ETRecentLineWrap
+Recenttlyused.title=Останні використані
+Recenttlyused.content=Перегляд і вибір зі списку функцій, що недавно використовувалися.
 
-RecenttlyUsed.title=Recently Used
-RecenttlyUsed.content=Browse and select from a list of recently used functions.
+Recordlist.title=Форма
+Recordlist.content="Після виділення заголовка стовпчика, можете вводити, шукати й видаляти дані через форму даних."
 
-RecordList.title=Form
-RecordList.content="After selecting the title of the column, you can input, search, or delete data via the data form."
+Recordmacro.title=Запис макросу
+Recordmacro.content="Показати діалогове вікно \"Запис макросу\", і почати запис макросу."
 
-RecordMacro.title=Record Macro
-RecordMacro.content=Show Record Macro dialog box and start recording macro.
+Refresh.title=Обновити дані
+Refresh.content=Відновлення інформації із джерела даних у книзі.
 
-Refresh.title=Refresh Data
-Refresh.content=Update all the information in the workbook that is coming from a data source.
+Refreshall.title=Обновити всі
+Refreshall.content=Обновити всю інформацію із джерела даних у книзі.
 
-RefreshAll.title=Refresh All
-RefreshAll.content=Update all the information in the workbook that is coming from a data source.
+Relativereference.title=Відносні посилання
+Relativereference.content="Використання відносних посилань, при якому дії в макросах записуються щодо комірки, у якому перебуває курсор."
 
-RelativeReference.title=Use Relative References
-RelativeReference.content=Use relative references so that macros are recorded with actions relative to the initial selected cell.
+Resetpicture.title=Відновити вихідне зображення
+Resetpicture.content=Скасування всіх змін форматування для даного зображення.
 
-ResetPicture.title=Reset Picture
-ResetPicture.content=Discard all of the formatting changes you have made to this picture.
+Rightborder.title=Права границя
+Rightborder.content=Додавання правої границі до виділених комірок.
 
-RightBorder.title=Right Border
-RightBorder.content=Apply borders to the currently selected cells.
+Rotateright.title=Обертання
+Rotateright.content=Поворот або дзеркальне відображення виділеного об'єкта.
 
-RotateRight.title=Rotate
-RotateRight.content=Rotate or flip the selected object.
+Rowsandcolumn.title=Рядка й стовпці
+Rowsandcolumn.content="Клацніть тут для роботи з рядками або стовпцями. Можна відрегулювати висоту й ширину, залити або сховати рядок або стовпець."
 
-RowsAndColumn.title=Rows and Columns
-RowsAndColumn.content="Click here to operate the rows and columns. You can adjust the height and width, Fill or Hide Rows and Columns."
+Runmacro.title=Перегляд макросів
+Runmacro.content="Відкрити діалогове вікно \"Макроси\". Показати список макросів для виконання, створення або видалення макросу."
 
-RunMacro.title=View Macros
-RunMacro.content="Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro."
+Runmacro2.title=Перегляд макросів
+Runmacro2.content="Відкрити діалогове вікно \"Макроси\". Показати список макросів для виконання, створення або видалення макросу."
 
-RunMacro2.title=View Macros
-RunMacro2.content="Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro."
+Sameletterheights.title= Рівної висоти
+Sameletterheights.content=Зробити всі букви виділеного фігурного тексту рівними по висоті.
 
-SameLetterHeights.title=WordArt Same Letter Heights
-SameLetterHeights.content=Make all the letters of the selected WordArt exactly the same height.
+Security.title=Безпека макросів
+Security.content=Настроювання параметрів безпеки макросів.
 
-Security.title=Macro Security
-Security.content=Customize the macro security settings.
+Sendbackward.title=Помістити на задній план
+Sendbackward.content="Переміщення виділеного об'єкта на один рівень назад, або розташування його за іншими об'єктів."
 
-SendBackward.title=Send Backward
-SendBackward.content=Send the selected object backward so that it is hidden by the objects that are in fornt of it.
+Sendbackward2.title=Помістити на задній план
+Sendbackward2.content="Переміщення виділеного об'єкта на один рівень назад, або розташування його за іншими об'єктів."
 
-SendBackward2.title=Send Backward
-SendBackward2.content=Send the selected object back one level or to the back of all objects.
+Seriesincolumns.title=Перемкнути стовпчик
+Seriesincolumns.content=Ряди діаграми створюються в стовпцях.
 
-SeriesInColumns.title=Switch Column
-SeriesInColumns.content=Chart series are created in columns.
+Seriesinrows.title=Перемкнути рядок
+Seriesinrows.content=Ряди діаграми створюються в рядках.
 
-SeriesInRows.title=Switch Row
-SeriesInRows.content=Chart series are created in rows.
+Shadowcolor.title=Колір тіні
+Shadowcolor.content=Вибір кольору тіні виділеного об'єкта.\n\nклацніть стрілку для вибору кольору тіні.
 
-ShadowColor.title=Shadow Color
-ShadowColor.content=Set the shadow color of the selected object.\n\nClick the arrow to select different shadow colors.
+Shadowcolor2.title=Колір тіні
+Shadowcolor2.content=Клацніть стрілку для вибору кольору тіні.
 
-ShadowColor2.title=Shadow Color
-ShadowColor2.content=Click the arrow to select different shadow colors.
+Shadowonoff.title=Показати або сховати тінь
+Shadowonoff.content=Показати або не показувати тінь для виділеного об'єкта.
 
-ShadowOnOff.title=Shadow On/Off
-ShadowOnOff.content=Turn on or off the shadow effect of the selected object.
+Shadowpalette.title=Стилі тіні
+Shadowpalette.content=Застосувати певний стиль тіні до виділеного об'єкта.
 
-ShadowPalette.title=Shadow Effects
-ShadowPalette.content=Set shadow effect to the selected object.
+Shapefillcolor.title=Заливання фігури
+Shapefillcolor.content="Заливання виділеного об'єкта кольором, градієнтом, текстурою або зображенням.\n\nклацніть стрілку для вибору типу заливання."
 
-ShapeFillColor.title=Shape Fill
-ShapeFillColor.content="Fill the selected shape with a solid color, gradient, picture, or texture.\n\nClick the arrow to select different fill effects."
+Shapefillcolor2.title=Заливання фігури
+Shapefillcolor2.content=Клацніть стрілку для вибору типу заливання.
 
-ShapeFillColor2.title=Shape Fill
-ShapeFillColor2.content=Click the arrow to select different fill effects.
+Shapelinecolor.title=Контур фігури
+Shapelinecolor.content="Вибір кольору, ширини й стилю лінії для контуру виділеного об'єкта.\n\nклацніть стрілку для вибору детальних параметрів контуру."
 
-ShapeLineColor.title=Shape Outline
-ShapeLineColor.content="Set the color, width, and line style for the outline of the selected object.\n\nClick the arrow to select detailed settings for the outline."
+Shapelinecolor2.title=Контур фігури
+Shapelinecolor2.content=Клацніть стрілку для вибору детальних параметрів контуру.
 
-ShapeLineColor2.title=Shape Outline
-ShapeLineColor2.content=Click the arrow to select detailed settings for the outline.
+Shapesize.title=Розмір фігури
+Shapesize.content="Вибір розміру, кута повороту й масштабу виділеної фігури."
 
-ShapeSize.title=Shape Size
-ShapeSize.content="Set the size, rotation degrees and zoom for the selected shape."
+Shareworkbook.title=Керування доступом до файлу
+Shareworkbook.content="Організація одночасної роботи декількох користувачів з однієї й тою же книгою.\n\nцю книгу необхідно зберегти на загальному мережному ресурсі, щоб її могли відкрити трохи користувачів.\n\nнеможна відкрити загальний доступ до книг, що містять таблиці."
 
-ShareWorkbook.title=Share Workbook
-ShareWorkbook.content=Allow multiple people to work in a workbook at the same time.\n\nThe workbook should be saved to a network location where multiple people can open it.\n\nWorkbooks containing tables cannot be shared.
+Showdetail.title=Показати деталі
+Showdetail.content=Показати всі елементи активного поля.
 
-ShowDetail.title=Show Detail
-ShowDetail.content=Show all items of the active field.
+Shrinkfont.title=Зменшити розмір шрифту
+Shrinkfont.content=Зменшення розміру шрифту.
 
-ShrinkFont.title=Decrease Font Size
-ShrinkFont.content=Decrease the font size.
+Sortandfilter.title=Сортування
+Sortandfilter.content=Впорядкування даних з метою спрощення їх аналізу.\n\nможна відсортувати виділені дані по зростанню або убуванні.
 
-SortAndFilter.title=Sort
-SortAndFilter.content=Arrange data so that it is easier to analyze.\n\nYou can sort the selected data in ascending or descending order.
+Sortascending.title=Сортувати по зростанню
+Sortascending.content="Сортування виділеного діапазону так, щоб найменші значення виявилися вгорі стовпця."
 
-SortAscending.title=Ascending
-SortAscending.content=Sort the selection so that the lowest values are at the top of the column.
+Sortdescending.title=Сортувати по убуванню
+Sortdescending.content="Сортування виділеного діапазону так, щоб найбільші значення виявилися вгорі стовпця."
 
-SortDescending.title=Descending
-SortDescending.content=Sort the selection so that the highest values are at the top of the column.
+Sourcedata.title=Виділити дані
+Sourcedata.content="Зміна діапазону даних, представлених на діаграмі."
 
-SourceData.title=Select Data
-SourceData.content=Change the data range included in the chart.
+Spellcheck.title=Перевірка правопису
+Spellcheck.content=Перевірка правильності написання тексту.
 
-SpellCheck.title=Spell Check
-SpellCheck.content=Check the spelling of the text in the current worksheet.
+Splitpanes.title=Розділити
+Splitpanes.content="Поділ вікна на кілька областей змінного розміру, у якому відображаються різні фрагменти одного аркуша.\n\nви можете використовувати цю функцію для перегляду декількох вилучених друг від друга фрагментів аркуша."
 
-SplitPanes.title=Split/Unsplit
-SplitPanes.content=Split the window into multiple resizable panes containing views of your worksheet.\n\nYou can use this feature to view multiple distant panes of your worksheet at once.
+Stopautoversion.title=Зупинити автозбереження
+Stopautoversion.content=Зупинити автоматичне збереження для виділеної книги.
 
-StopAutoVersion.title=Stop Auto Backup
-StopAutoVersion.content=Stop the current workbook from auto saving.
+Stoprecordmacro.title=Зупинити запис
+Stoprecordmacro.content=Зупинити запис макросу.
 
-StopRecordMacro.title=Stop Recording
-StopRecordMacro.content=Stop recording the macro.
+Subtotals.title=Проміжний підсумок
+Subtotals.content=Розрахунки спільного підсумку для декількох рядків взаємозалежних даних за допомогою автоматичної вставки проміжних і загальних підсумків для виділених комірок.
 
-Subtotals.title=Subtotal
-Subtotals.content=Total several rows of related data together by automatically inserting subtotals and totals for the selected cells.
+Switchwindow.title=Перейти в інше вікно
+Switchwindow.content=Перемкнутися в інше відкрите вікно.
 
-SwitchWindow.title=Switch Windows
-SwitchWindow.content=Switch to a different currently open window.
+Taskwindow.title=Область завдань
+Taskwindow.content=Сховати або показати панель завдань поточного документа.
 
-TaskWindow.title=Task Window
-TaskWindow.content=Show or hide the task window in the worksheet.
+Textfill.title=Колір тексту
+Textfill.content=Зміна кольору тексту.\n\nклацніть стрілку для вибору кольору тексту.
 
-TextFill.title=Text Color
-TextFill.content=Change the text color.\n\nClick the arrow to select a different text color.
+Textfill2.title=Колір тексту
+Textfill2.content=Клацніть стрілку для вибору кольору тексту.
 
-TextFill2.title=Text Color
-TextFill2.content=Click the arrow to select a different text color.
+Textorientation.title=Орієнтація
+Textorientation.content="Поворот тексту таким чином, щоб він розташовувався по діагоналі або по вертикалі.\n\nчасто використовується для розміщення заголовків вузьких стовпців.\n\nщоб відновити нормальну орієнтацію тексту, клацніть виділену орієнтацію тексту ще раз."
 
-TextOrientation.title=Orientation
-TextOrientation.content=Rotate text to a diagonal angle or vertical orientation.\n\nThis is often used for labeling narrow columns.\n\nClick the currently selected text orientation again to reset the text back to normal orientation.
+Texttocolumns.title=Текст по стовпцях
+Texttocolumns.content="Розділити вміст комірок аркуша на окремі стовпці.\n\nнаприклад, ви можете розділити стовпець із повним іменем на окремі стовпці із прізвищем, іменем та по батькові.\n\nв Writer це використовується для перетворення виділеного тексту в таблицю або розбивки на стовпці тексту за допомогою коми, крапки, або іншого роздільника."
 
-TextToColumns.title=Text to Columns
-TextToColumns.content="Separate the contents of one Spreadsheets cell into separate columns.\n\nFor example, you can separate a column of full names into separate first and last name columns.\n\nIn Writer, use this feature to convert the selected text into a table, splitting the text into columns at each comma, period, or other character you specify."
+Thickbottomborder.title=Толста нижня границя
+Thickbottomborder.content=Додавання товстої нижньої границі до виділених комірок.
 
-ThickBottomBorder.title=Thick Bottom Border
-ThickBottomBorder.content=Apply borders to the currently selected cells.
+Thickboxborder.title=Толста зовнішня границя
+Thickboxborder.content=Додавання товстої границі навколо виділених комірок.
 
-ThickBoxBorder.title=Thick Box Border
-ThickBoxBorder.content=Apply borders to the currently selected cells.
+Topandbottomborder.title=Верхня й нижня границі
+Topandbottomborder.content=Додати верхню й нижню границі до виділених комірок.
 
-TopAndBottomBorder.title=Top and Bottom Border
-TopAndBottomBorder.content=Apply borders to the currently selected cells.
+Topanddloublebottomborder.title=Верхня й подвійна нижня границя
+Topanddloublebottomborder.content=Додати верхню й подвійну нижню границі до виділених комірок.
 
-TopAndDloubleBottomBorder.title=Top and Double Bottom Border
-TopAndDloubleBottomBorder.content=Apply borders to the currently selected cells.
+Topandthickbottomborder.title=Верхня й товста нижня границі
+Topandthickbottomborder.content=Додати верхню й товсту нижню границі до виділених комірок.
 
-TopAndThickBottomBorder.title=Thick Top and Bottom Border
-TopAndThickBottomBorder.content=Apply borders to the currently selected cells.
+Topborder.title=Верхня границя
+Topborder.content=Додати верхню границю до виділених комірок.
 
-TopBorder.title=Top Border
-TopBorder.content=Apply borders to the currently selected cells.
+Trackchanges.title=Реєстрація змін
+Trackchanges.content="Відстеження всіх змін, внесених у документ, включаючи вставку, видалення й зміна форматування."
 
-TrackChanges.title=Track Changes
-TrackChanges.content="Track all changes made to the workbook, including insertions, deletions, and formatting changes."
+Translatetosimplifiedchinese.title=Перетворення в спрощений китайський
+Translatetosimplifiedchinese.content=Перетворення традиційного китайського в спрощений китайський.
 
-TranslateToSimplifiedChinese.title=Traditional Chinese to Simplified Chinese
-TranslateToSimplifiedChinese.content=Translate Traditional Chinese into Simplified Chinese.
+Translatetotraditionalchinese.title=Перетворення в традиційний китайський
+Translatetotraditionalchinese.content=Перетворення спрощеного в традиційний китайський.
 
-TranslateToTraditionalChinese.title=Simplified Chinese to Traditional Chinese
-TranslateToTraditionalChinese.content=Translate Simplified Chinese into Traditional Chinese.
+Underline.title=Підкреслення
+Underline.content=Підкреслення виділеного тексту.
 
-Underline.title=Underline
-Underline.content=Underline the selected text.
+Valignbottom.title=Вирівняти по нижньому краю
+Valignbottom.content=Вирівнювання тексту по нижньому краю комірки.
 
-VAlignBottom.title=Bottom Align
-VAlignBottom.content=Align text to the bottom of the cell.
+Valigncenter.title=Вирівняти по середині
+Valigncenter.content=Вирівнювання тексту по центру між верхньою й нижньою границею комірки.
 
-VAlignCenter.title=Middle Align
-VAlignCenter.content=Align text so that it is centered between the top and bottom of the cell.
+Valigntop.title=Вирівняти по верхньому краю
+Valigntop.content=Вирівнювання тексту по верхньому краю комірки.
 
-VAlignTop.title=Top Align
-VAlignTop.content=Align text to the top of the cell.
+Validation.title=Перевірка даних
+Validation.content="Захист комірки від уведення невірних даних.\n\nнаприклад, можна заборонити введення невірних дат або чисел, що перевищують 1000.\n\nможна також дозволити введення значень тільки з попередньо певного списку, що розкривається."
 
-Validation.title=Data Validation
-Validation.content="Prevent invalid data from being entered into a cell\n\nFor example, you could reject invalid data or numbers greater than 1000.\n\nYou can also force input to be chosen from a dropdown list of values you specify."
+Verticaltext.title=Вертикальний фігурний текст
+Verticaltext.content="Розмістити текст вертикально, розташувавши букви одна над іншою."
 
-VerticalText.title=WordArt Vertical Text
-VerticalText.content="Draw the text vertically, with the letters stacked on top of each other."
+Visualbasiceditor.title=Редактор Visual Basic
+Visualbasiceditor.content=Запуск редактора Visual Basic для зміни коду макросів.
 
-VisualBasicEditor.title=Visual Basic Editor
-VisualBasicEditor.content=Open Visual Basic Editor to edit macros.
+What-If%20Analysis.title=Аналіз припущень
+What-If%20Analysis.content="Добір параметра виконує пошук значення, яке треба ввести у формулу для одержання відомого результату.\n\nаналіз припущень визначає оптимальне значення цільового комірки, змінюючи значення комірок, які використовуються для розрахунків значення цільового комірки."
 
-What-If%20Analysis.title=What-If Analysis
-What-If%20Analysis.content=Goal Seek will find the right input when you know the result you want.\nWhat-If Analysis tool that finds the optimal value of a target cell by changing values in cells used to calculate the target cell.
+Windowreset.title=Розташувати поруч
+Windowreset.content=Розташування вікон усіх відкритих програм на екрані поруч.
 
-WindowReset.title=Arrange All
-WindowReset.content=Tile all open worksheets side-by-side under the same program window.
+Wordartdetailedsettings.title=Wordartdetailedsettings Title
+Wordartdetailedsettings.content=Wordartdetailedsettings Content
 
-WordArtDetailedSettings.title=WordArtDetailedSettings Title
-WordArtDetailedSettings.content=WordArtDetailedSettings Content
+Wordartfillcolor.title=Заливання
+Wordartfillcolor.content="Заповнення виділеного об'єкта суцільним кольором, градієнтом, текстурою або малюнком.\n\nклацніть стрілку для вибору способу заливання."
 
-WordArtFillColor.title=WordArt Fill
-WordArtFillColor.content="Fill the selected WordArt with a solid color, gradient, texture and picture.\n\nClick the arrow to fill the WordArt in different ways."
+Wordartfillcolor2.title=Заливання
+Wordartfillcolor2.content=Клацніть стрілку для вибору способу заливання.
 
-WordArtFillColor2.title=WordArt Fill
-WordArtFillColor2.content=Click the arrow to fill the WordArt in different ways.
+Wordartgallery.title=Колекція
+Wordartgallery.content=Зміна стилю виділеного фігурного тексту.
 
-WordArtGallery.title=WordArt Gallery
-WordArtGallery.content=Change the style of the selected WordArt.
+Wordartlinecolor.title=Контур
+Wordartlinecolor.content="Вибір кольору, ширини й типу лінії для контуру виділеного фігурного тексту.\n\nклацніть стрілку для вибору стилю контуру."
 
-WordArtLineColor.title=WordArt Outline
-WordArtLineColor.content="Set the color, width and line style for the outline of the selected WordArt.\n\nClick the arrow to select detailed settings for the outline."
+Wordartlinecolor2.title=Контур
+Wordartlinecolor2.content=Клацніть стрілку для вибору стилю контуру.
 
-WordArtLineColor2.title=WordArt Outline
-WordArtLineColor2.content=Click the arrow to select detailed settings for the outline.
+Wordartshapepalette.title=Форма
+Wordartshapepalette.content=Зміна стилю форми для виділеного фігурного тексту.
 
-WordArtShapePalette.title=WordArt Shape
-WordArtShapePalette.content=Change the shape style of the selected WordArt.
+Wordartsize.title=Розмір
+Wordartsize.content="Вибір розміру, кута повороту й масштабу для виділеного фігурного тексту."
 
-WordArtSize.title=WordArt Size
-WordArtSize.content="Set the size, rotation degree and scale of the selected WordArt."
+Worksheet.title=Аркуш
+Worksheet.content="Клацніть тут для зміни аркуша. Можна вставити або вилучити аркуш, змінити назву аркуша або змінити колір вкладки аркуша."
 
-WorkSheet.title=Worksheet
-WorkSheet.content="Click here to modify the worksheet. You can Insert or Delete the worksheet, Rename the worksheet, or change the color of the worksheet tab."
+Workspace_Backup.title=Workspace Backup
+Workspace_Backup.content=Workspace_Backup Content
 
-WorkSpace_Backup.title=WorkSpace Backup
-WorkSpace_Backup.content=WorkSpace_Backup Content
+Zoom.title=Масштаб
+Zoom.content="Відкриття діалогового вікна \"Масштаб\", у якому можна вибрати масштаб документа."
 
-Zoom.title=Zoom
-Zoom.content=Show the Zoom dialog box to specify the zoom level of the document.
+m_Format.title=Формат
+m_Format.content="Зміни формату виділених комірок, перетворення тексту в число або гіперпосилання."
 
-m_Format.title=Format
-m_Format.content="To change the format of the selected cells, convert text to Number or Hyperlink."
+sp_Autosum.title=Автосума
+sp_Autosum.content=Показати суму виділених комірок безпосередньо після цих комірок.
+sp_Autosum.img=Etautosum
 
-sp_AutoSum.title=AutoSum
-sp_AutoSum.content=Display the sum of the selected cells directly after the selected cells.
-sp_AutoSum.img=ETAutoSum
+sp_Autosum2.title=Автосума
+sp_Autosum2.content="Клацніть тут, щоб відобразити результат простого обчислення, наприклад розрахунків середнього або максимального значення для виділених комірок."
 
-sp_AutoSum2.title=AutoSum
-sp_AutoSum2.content="Click here to display the result of a simple calculation, such as Average or Maximum value, after the selected cells."
+sp_Paste.title=Вставити
+sp_Paste.content=Вставка вмісту буфера обміну.
 
-sp_Paste.title=Paste
-sp_Paste.content=Paste the contents of the Clipboard.
+sp_Paste2.title=Вставити
+sp_Paste2.content="Клацніть тут, щоб переглянути додаткові параметри, такі як вставка з буфера обміну тільки значень або тільки форматування."
 
-sp_Paste2.title=Paste
-sp_Paste2.content=Click here for more options such as pasting only the values.
-
-FormulaErrorCheck.title=Error Checking
-FormulaErrorCheck.content=Check for common errors that occur when using formulas.
-
+Formulaerrorcheck.title=Перевірка наявності помилок
+Formulaerrorcheck.content="Пошук помилок, що найбільше часто зустрічаються у формулах."
