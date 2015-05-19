@@ -18,11 +18,11 @@
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation>Видалит з листа</translation>
+        <translation>Видалити з листа</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation>Цідило</translation>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <source>Type:</source>
